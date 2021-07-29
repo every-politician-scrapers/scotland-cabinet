@@ -1,7 +1,12 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+Q480184,Angus Robertson,Angus Robertson,male,1969-09-28T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694326,"Cabinet Secretary for the Constitution, External Affairs and Culture",Q480184-133A4985-9C90-4A5D-B620-1CE6DF57AE85
+Q174924,Humza Yousaf,Humza Yousaf,male,1985-04-07T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694341,Cabinet Secretary for Health and Social Care,Q174924-C1947D54-3AC9-437D-8A24-C86603E2B99F
 Q333811,John Swinney,John Swinney,male,1964-04-13T00:00:00Z,11,,Q106906212,Cabinet Secretary for Covid Recovery,Q333811-34686207-4840-e3e2-7c91-7ff889ef6cb1
-Q333811,John Swinney,John Swinney,male,1964-04-13T00:00:00Z,11,,Q5261035,Deputy First Minister of Scotland,Q333811-C51D9B28-1347-425A-B9E6-30C2B394BB40
-Q1738042,Keith Brown,Keith Brown,male,1961-12-20T00:00:00Z,11,,Q24197309,"Cabinet Secretary for Economy, Jobs and Fair Work",Q1738042-892da8ac-45d4-557d-461b-0994ae3ea47e
-Q121780,Michael Matheson,Michael Matheson,male,1970-09-08T00:00:00Z,11,,Q5015480,Cabinet Secretary for Justice,Q121780-356344a0-46b4-20da-edc0-c28c6a80a7b5
-Q467112,Nicola Sturgeon,Nicola Sturgeon,female,1970-07-19T00:00:00Z,11,,Q1362216,First Minister of Scotland,Q467112-81362a61-419c-4899-f829-7ac6b437ac12
-Q444675,Shona Robison,Shona Robison,female,1966-05-26T00:00:00Z,11,,Q30762929,Cabinet Secretary for Health and Sport,Q444675-d50aab91-4b1e-27d2-e8a7-2ab94db94978
+Q333811,John Swinney,John Swinney,male,1964-04-13T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q5261035,Deputy First Minister,Q333811-C51D9B28-1347-425A-B9E6-30C2B394BB40
+Q24039479,Kate Forbes,Kate Forbes,female,1990-04-06T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694344,Cabinet Secretary for Finance and the Economy,Q24039479-1298F44F-6AE0-43BC-BBF8-11CFA889487F
+Q1738042,Keith Brown,Keith Brown,male,1961-12-20T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694363,Cabinet Secretary for Justice and Veterans,Q1738042-FA8EF35D-ADD8-476C-9F88-67C2EBE3B5BE
+Q24014894,Mairi Gougeon,Mairi Gougeon,female,1985-04-23T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694337,Cabinet Secretary for Rural Affairs and Islands,Q24014894-B5C571D2-F2CC-4367-9FEE-C1136DA2A6F6
+Q121780,Michael Matheson,Michael Matheson,male,1970-09-08T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694359,"Cabinet Secretary for Net Zero, Energy and Transport",Q121780-129C3F01-275B-4D10-8854-700153B080C1
+Q467112,Nicola Sturgeon,Nicola Sturgeon,female,1970-07-19T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q1362216,First Minister,Q467112-81362a61-419c-4899-f829-7ac6b437ac12
+Q2279359,Shirley-Anne Somerville,Shirley-Anne Somerville,female,1974-09-02T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q30762640,Cabinet Secretary for Education and Skills,Q2279359-729FB213-37D8-4D61-B9D2-2984A919329C
+Q444675,Shona Robison,Shona Robison,female,1966-05-26T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694357,"Cabinet Secretary for Social Justice, Housing and Local Government",Q444675-5F83C462-1D1C-4581-8DD0-697D12AB893C
