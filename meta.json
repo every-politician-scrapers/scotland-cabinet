@@ -1,5 +1,6 @@
 {
     "cabinet": "Q106906168",
     "lang":    "en",
-    "agent":   "every-politican-scrapers/scotland-cabinet"
+    "agent":   "every-politican-scrapers/scotland-cabinet",
+    "source_match": "gov.scot"
 }
