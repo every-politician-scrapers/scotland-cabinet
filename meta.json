@@ -1,6 +1,15 @@
 {
-    "cabinet": "Q106906168",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/scotland-cabinet",
-    "source_match": "gov.scot"
+    "cabinet": {
+      "id": "Q106906168",
+      "start": "2021-05-20"
+    },
+    "source": {
+        "url":   "https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/",
+        "title": "Cabinet and Ministers",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/scotland-cabinet"
 }
