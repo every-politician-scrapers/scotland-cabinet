@@ -1,11 +1,20 @@
 {
+    "jurisdiction": {
+      "name": "Scotland",
+      "id": "Q22"
+    },
+    "country": {
+      "name": "UK",
+      "id": "Q145"
+    },
     "cabinet": {
       "id": "Q106906168",
-      "start": "2021-05-20"
+      "start": "2021-05-20",
+      "parent": "Q32859621"
     },
     "source": {
         "url":   "https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/",
-        "title": "Cabinet and Ministers",
+        "title": "Cabinet and Ministers - gov.scot",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
