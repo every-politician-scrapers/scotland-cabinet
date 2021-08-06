@@ -1,7 +1,7 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q480184,Angus Robertson,Angus Robertson,male,1969-09-28T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694326,"Cabinet Secretary for the Constitution, External Affairs and Culture",Q480184-133A4985-9C90-4A5D-B620-1CE6DF57AE85
 Q174924,Humza Yousaf,Humza Yousaf,male,1985-04-07T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694341,Cabinet Secretary for Health and Social Care,Q174924-C1947D54-3AC9-437D-8A24-C86603E2B99F
-Q333811,John Swinney,John Swinney,male,1964-04-13T00:00:00Z,11,,Q106906212,Cabinet Secretary for Covid Recovery,Q333811-34686207-4840-e3e2-7c91-7ff889ef6cb1
+Q333811,John Swinney,John Swinney,male,1964-04-13T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q106906212,Cabinet Secretary for Covid Recovery,Q333811-34686207-4840-e3e2-7c91-7ff889ef6cb1
 Q333811,John Swinney,John Swinney,male,1964-04-13T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q5261035,Deputy First Minister,Q333811-C51D9B28-1347-425A-B9E6-30C2B394BB40
 Q24039479,Kate Forbes,Kate Forbes,female,1990-04-06T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694344,Cabinet Secretary for Finance and the Economy,Q24039479-1298F44F-6AE0-43BC-BBF8-11CFA889487F
 Q1738042,Keith Brown,Keith Brown,male,1961-12-20T00:00:00Z,11,https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/,Q107694363,Cabinet Secretary for Justice and Veterans,Q1738042-FA8EF35D-ADD8-476C-9F88-67C2EBE3B5BE
