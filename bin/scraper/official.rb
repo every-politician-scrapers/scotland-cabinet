@@ -5,28 +5,20 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
-    field :name do
+  class Member
+    def name
       noko.parent.parent.css('.person__name').text.gsub(' MSP', '').tidy
     end
 
-    field :position do
+    def position
       noko.text.tidy
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
-    field :members do
-      container.map { |member| fragment(member => Member).to_h }
-    end
-
-    private
-
+  class Members
     # We want a row for each *role*, not each person
     # TODO: remove the 'cabinet' ID, to include all the ministers too
-    def container
+    def member_container
       noko.css('#the-scottish-cabinet .person .person__role-link')
     end
   end
