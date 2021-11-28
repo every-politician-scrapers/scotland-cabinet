@@ -4570,7 +4570,7 @@
         {
           "sentences": [
             {
-              "text": "In January 2021 a former trans officer in the SNP's LGBT wing, Teddy Hopes, quit the party, claiming it was one of the “core hubs of transphobia in Scotland\". Large numbers of LGBT activists followed suit and Sturgeon released a video message in which she said that transphobia is \"not acceptable\" and pledged to do \"everything I can to change that impression and persuade all of you that the SNP is your party and that you should come home where you belong.\""
+              "text": "In January 2021 a former trans officer in the SNP's LGBT wing, Teddy Hope, quit the party, claiming it was one of the “core hubs of transphobia in Scotland\". Large numbers of LGBT activists followed suit and Sturgeon released a video message in which she said that transphobia is \"not acceptable\" and pledged to do \"everything I can to change that impression and persuade all of you that the SNP is your party and that you should come home where you belong.\""
             }
           ]
         },
@@ -4584,6 +4584,9 @@
                   "page": "Scottish Greens"
                 }
               ]
+            },
+            {
+              "text": "In the 2021 SNP manifesto, Sturgeon committed the party to reform the Gender Recognition Act."
             }
           ]
         },
@@ -4738,6 +4741,17 @@
           "type": "news"
         },
         {
+          "last": "Merson",
+          "first": "Adele",
+          "date": "30 June 2021",
+          "title": "Trans rights: How gender recognition reform became one of Scotland’s most heated debates",
+          "work": "The Press and Journal (Scotland)",
+          "url": "https://www.pressandjournal.co.uk/fp/politics/scottish-politics/3272284/trans-rights-debate-scotland/",
+          "access-date": "27 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "last": "Gordon",
           "first": "Tom",
           "date": "9 September 2021",
@@ -4796,6 +4810,15 @@
               "text": "The SNP won a fourth consecutive election, albeit short of an overall majority, with a record number of votes on both the constituency and regional vote as well as increasing their share of the constituency vote and making a net gain of one seat."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:First Minster of Scotland Nicola Sturgeon, US President Joe Biden and President of Malawi Lazarus Chakwera.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/First_Minster_of_Scotland_Nicola_Sturgeon%2C_US_President_Joe_Biden_and_President_of_Malawi_Lazarus_Chakwera.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/First_Minster_of_Scotland_Nicola_Sturgeon%2C_US_President_Joe_Biden_and_President_of_Malawi_Lazarus_Chakwera.jpg",
+          "caption": "Sturgeon meets with U.S. President Joe Biden and President of Malawi Lazarus Chakwera, November 2021",
+          "links": []
         }
       ],
       "templates": [
@@ -4966,15 +4989,6 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Agreement_with_Scottish_Green_Party_at_Bute_House_Lorna_Slater_at_right.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Agreement_with_Scottish_Green_Party_at_Bute_House_Lorna_Slater_at_right.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Agreement_with_Scottish_Green_Party_at_Bute_House_Lorna_Slater_at_right.jpg",
-          "caption": "Sturgeon with Scottish Greens co-leaders Patrick Harvie and Lorna Slater announcing the Bute House Agreement in August 2021",
-          "links": []
-        }
-      ],
       "references": [
         {
           "date": "2021-08-20",
@@ -5038,9 +5052,9 @@
       ],
       "images": [
         {
-          "file": "File:Armistice Day - 1 minute silence at COP26 (51671721331).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Armistice_Day_-_1_minute_silence_at_COP26_(51671721331).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Armistice_Day_-_1_minute_silence_at_COP26_(51671721331).jpg",
+          "file": "File:First Minister - COP26 OXFAM speech (51672407476).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/First_Minister_-_COP26_OXFAM_speech_(51672407476).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/First_Minister_-_COP26_OXFAM_speech_(51672407476).jpg",
           "caption": "Sturgeon at the COP26 climate summit in Glasgow on 11 November 2021",
           "links": []
         }
