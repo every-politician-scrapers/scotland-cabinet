@@ -333,10 +333,29 @@
           "template": "use dmy dates"
         },
         {
-          "last": "yes",
+          "list": [
+            "Stewart Hosie",
+            "Angus Robertson",
+            "Keith Brown"
+          ],
+          "template": "ubl"
+        },
+        {
           "list": [
             "Ministerial offices"
           ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "last": "yes",
+          "list": [
+            "Parliamentary offices"
+          ],
+          "cont": "yes",
           "titlestyle": "border:1px dashed lightgrey;",
           "template": "collapsed infobox section begin"
         },
@@ -354,6 +373,13 @@
           "spouse": "Peter Murrell",
           "from": "16 July 2010",
           "template": "marriage"
+        },
+        {
+          "list": [
+            "Robin Sturgeon",
+            "Joan Kerr Ferguson"
+          ],
+          "template": "ubl"
         },
         {
           "template": "notelist"
@@ -451,6 +477,57 @@
           }
         },
         {
+          "embed": {
+            "text": "yes"
+          },
+          "office": {
+            "text": "Member of the Scottish Parliament\nfor Glasgow Southside\nGlasgow Govan (2007–2011)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Scottish Parliament"
+              },
+              {
+                "text": "Glasgow Southside",
+                "type": "internal",
+                "page": "Glasgow Southside (Scottish Parliament constituency)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 May 2007"
+          },
+          "predecessor": {
+            "text": "Gordon Jackson",
+            "links": [
+              {
+                "text": "Gordon Jackson",
+                "type": "internal",
+                "page": "Gordon Jackson (politician)"
+              }
+            ]
+          },
+          "majority": {
+            "text": "9,593 (38.5%)"
+          },
+          "office1": {
+            "text": "Member of the Scottish Parliament\nfor Glasgow\n(1 of 7 Regional MSPs)",
+            "links": [
+              {
+                "text": "Glasgow",
+                "type": "internal",
+                "page": "Glasgow (Scottish Parliament electoral region)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "6 May 1999"
+          },
+          "term_end1": {
+            "text": "3 May 2007"
+          }
+        },
+        {
           "honorific-prefix": {
             "text": "The Right Honourable",
             "links": [
@@ -528,22 +605,7 @@
             ]
           },
           "deputy1": {
-            "text": "Stewart Hosie\nAngus Robertson\nKeith Brown",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stewart Hosie"
-              },
-              {
-                "type": "internal",
-                "page": "Angus Robertson"
-              },
-              {
-                "text": "Keith Brown",
-                "type": "internal",
-                "page": "Keith Brown (Scottish politician)"
-              }
-            ]
+            "text": "Stewart Hosie\n\nAngus Robertson\n\nKeith Brown"
           },
           "term_start1": {
             "text": "14 November 2014"
@@ -619,52 +681,6 @@
                 "page": "Stewart Hosie"
               }
             ]
-          },
-          "office6": {
-            "text": "Member of the Scottish Parliament\nfor Glasgow Southside\nGlasgow Govan (2007–2011)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the Scottish Parliament"
-              },
-              {
-                "text": "Glasgow Southside",
-                "type": "internal",
-                "page": "Glasgow Southside (Scottish Parliament constituency)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "3 May 2007"
-          },
-          "predecessor6": {
-            "text": "Gordon Jackson",
-            "links": [
-              {
-                "text": "Gordon Jackson",
-                "type": "internal",
-                "page": "Gordon Jackson (politician)"
-              }
-            ]
-          },
-          "majority6": {
-            "text": "9,593 (38.5%)"
-          },
-          "office7": {
-            "text": "Member of the Scottish Parliament\nfor Glasgow\n(1 of 7 Regional MSPs)",
-            "links": [
-              {
-                "text": "Glasgow",
-                "type": "internal",
-                "page": "Glasgow (Scottish Parliament electoral region)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "6 May 1999"
-          },
-          "term_end7": {
-            "text": "3 May 2007"
           },
           "birth_name": {
             "text": "Nicola Ferguson Sturgeon"
