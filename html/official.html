@@ -36,7 +36,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" type="text/css" href="/webfiles/1638371956504/assets/css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="/webfiles/1639048875859/assets/css/main.css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900,400italic' rel='stylesheet' type='text/css'>
@@ -77,21 +77,43 @@
 
 
 
-    <div id="cookie-notice" class="ds_notification  hidden  hidden--hard">
-        <div class="wrapper">
-            <div class="ds_notification__content  ds_notification__content--has-close">
-                <div class="ds_notification__text">
-                    <p>Gov.scot uses cookies which are essential for the site to work. We also use non-essential cookies to help us improve our websites. Any data collected is anonymised. By continuing to use this site, you agree to our use of cookies.  <a data-banner="banner-cookies-link" href="/cookies/">Find
-                    out more about cookies</a></p>
-                </div>
 
-                <button data-banner="banner-cookies-close" class="ds_notification__close  js-close-notification" type="button">
-                    <span class="hidden">Close this notification</span>
-                    <svg data-banner="banner-close" class="ds_icon" role="img"><use xlink:href="/webfiles/1638371956504/assets/images/icons/icons.stack.svg#close-21"></use></svg>
-                </button>
+
+
+<div id="cookie-notice" class="ds_notification  ds_notification--large  ds_notification--cookie  js-initial-cookie-content  fully-hidden" data-module="ds-cookie-notification">
+    <div class="wrapper">
+        <div class="ds_notification__content">
+            <h2 class="visually-hidden">Information</h2>
+
+            <div class="ds_notification__text">
+                <p>We use <a href="/cookies/">cookies</a> to collect anonymous data to help us improve your site browsing
+                    experience.</p>
+                <p>Click 'Accept all cookies' to agree to all cookies that collect anonymous data.
+                    To only allow the cookies that make the site work, click 'Use essential cookies only.' Visit 'Set cookie preferences' to control specific cookies.</p>
+            </div>
+
+            <div class="ds_notification__actions">
+                <button class="ds_button  ds_button--small  js-accept-all-cookies">Accept all cookies</button>
+                <button class="ds_button  ds_button--small  ds_button--secondary  js-accept-essential-cookies">Use essential cookies only</button>
+                    <a href="/cookies/">Set cookie preferences</a>
             </div>
         </div>
     </div>
+</div>
+
+<div id="cookie-confirm" data-customcondition="true" class="ds_notification  ds_notification--cookie-success  ds_reversed  js-confirm-cookie-content  fully-hidden" data-module="ds-notification">
+    <div class="wrapper">
+        <div class="ds_notification__content">
+            <div class="ds_notification__text">
+                <p>
+                    Your cookie preferences have been saved.
+
+                        You can <a href="/cookies/">change your cookie settings</a> at any time.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -99,7 +121,7 @@
         <div class="wrapper">
             <div class="ds_notification__content  ds_notification__content--has-close">
                 <span class="ds_notification__icon" aria-hidden="true">
-                    <svg class="ds_icon" aria-hidden="true" role="img"><use xlink:href="/webfiles/1638371956504/assets/images/icons/icons.stack.svg#bang-21"></use></svg>
+                    <svg class="ds_icon" aria-hidden="true" role="img"><use xlink:href="/webfiles/1639048875859/assets/images/icons/icons.stack.svg#bang-21"></use></svg>
                 </span>
                 <div class="ds_notification__text">
                         <p><a href="/coronavirus-covid-19/">Coronavirus (COVID-19): what you need to know</a>&nbsp;</p>
@@ -107,7 +129,7 @@
 
                 <button data-banner="banner-close" class="ds_notification__close  js-close-notification" type="button">
                     <span class="hidden">Close this notification</span>
-                    <svg data-banner="banner-close" class="ds_icon" role="img"><use xlink:href="/webfiles/1638371956504/assets/images/icons/icons.stack.svg#close-21"></use></svg>
+                    <svg data-banner="banner-close" class="ds_icon" role="img"><use xlink:href="/webfiles/1639048875859/assets/images/icons/icons.stack.svg#close-21"></use></svg>
                 </button>
             </div>
         </div>
@@ -137,7 +159,7 @@
             <input name="cat" value="sitesearch" hidden>
 
             <button type="submit" title="search" class="search-box__button button button--primary">
-                <svg class="ds_icon  ds_site-search__icon" aria-hidden="true" role="img"><use xlink:href="/webfiles/1638371956504/assets/images/icons/icons.stack.svg#search"></use></svg>
+                <svg class="ds_icon  ds_site-search__icon" aria-hidden="true" role="img"><use xlink:href="/webfiles/1639048875859/assets/images/icons/icons.stack.svg#search"></use></svg>
                 <span class="hidden">Search gov.scot</span>
             </button>
         </div>
@@ -148,8 +170,8 @@
         <nav role="navigation" data-module="ds-site-navigation">
             <button class="js-toggle-menu  ds_mobile-navigation__button" aria-expanded="false" aria-controls="mobile-navigation-menu">
                 <span class="ds_site-header__control-text">Menu</span>
-                <svg class="ds_icon  ds_site-header__control-icon" role="img"><use xlink:href="/webfiles/1638371956504/assets/images/icons/icons.stack.svg#menu-21"></use></svg>
-                <svg class="ds_icon  ds_site-header__control-icon--close  ds_site-header__control-icon" role="img"><use xlink:href="/webfiles/1638371956504/assets/images/icons/icons.stack.svg#close-21"></use></svg>
+                <svg class="ds_icon  ds_site-header__control-icon" role="img"><use xlink:href="/webfiles/1639048875859/assets/images/icons/icons.stack.svg#menu-21"></use></svg>
+                <svg class="ds_icon  ds_site-header__control-icon--close  ds_site-header__control-icon" role="img"><use xlink:href="/webfiles/1639048875859/assets/images/icons/icons.stack.svg#close-21"></use></svg>
             </button>
 
             <div id="mobile-navigation-menu" class="ds_mobile-navigation" data-offsetselector=".ds_site-header">
@@ -164,7 +186,7 @@
                                     <input name="q" required="" id="site-search--mobile" class="ds_site-search__input" type="text" placeholder="Search" autocomplete="off" />
                                     <input name="cat" value="sitesearch" hidden>
                                     <button type="submit" title="search" class="ds_site-search__button  button  button--primary">
-                                        <svg class="ds_icon  ds_site-search__icon" role="img"><use xlink:href="/webfiles/1638371956504/assets/images/icons/icons.stack.svg#search"></use></svg>
+                                        <svg class="ds_icon  ds_site-search__icon" role="img"><use xlink:href="/webfiles/1639048875859/assets/images/icons/icons.stack.svg#search"></use></svg>
 
                                         <span class="hidden">Search gov.scot</span>
                                     </button>
@@ -1565,8 +1587,8 @@
     
     
 
-    <script type="module" src="/webfiles/1638371956504/assets/scripts/global.js"></script>
-    <script nomodule="true" src="/webfiles/1638371956504/assets/scripts/global.es5.js"></script>
+    <script type="module" src="/webfiles/1639048875859/assets/scripts/global.js"></script>
+    <script nomodule="true" src="/webfiles/1639048875859/assets/scripts/global.es5.js"></script>
 
     <script defer src="/assets/scripts/vendor/svgxuse.min.js"></script>
 
