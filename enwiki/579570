@@ -316,13 +316,13 @@
       ],
       "templates": [
         {
+          "description": "First Minister of Scotland",
+          "template": "short description"
+        },
+        {
           "reason": "Persistent disruptive editing; requested at WP:RfPP",
           "small": "yes",
           "template": "pp-protected"
-        },
-        {
-          "description": "First Minister of Scotland",
-          "template": "short description"
         },
         {
           "date": "May 2021",
