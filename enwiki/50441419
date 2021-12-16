@@ -1,0 +1,230 @@
+{
+  "title": "Jenny Gilruth",
+  "pageID": 50441419,
+  "categories": [
+    "1984 births",
+    "Living people",
+    "Place of birth missing (living people)",
+    "People educated at Madras College",
+    "Alumni of the University of Glasgow",
+    "Scottish schoolteachers",
+    "Scottish National Party MSPs",
+    "Members of the Scottish Parliament 2016–2021",
+    "Members of the Scottish Parliament 2021–2026",
+    "Female members of the Scottish Parliament",
+    "Lesbian politicians",
+    "LGBT members of the Scottish Parliament",
+    "LGBT politicians from Scotland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jennifer Madeleine Gilruth (born 1984) is a Scottish National Party (SNP) politician who has been the Member of the Scottish Parliament (MSP) for Mid Fife and Glenrothes since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scottish National Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of the Scottish Parliament"
+                },
+                {
+                  "text": "Mid Fife and Glenrothes",
+                  "type": "internal",
+                  "page": "Mid Fife and Glenrothes (Scottish Parliament constituency)"
+                },
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 Scottish Parliament election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jennifer Madeleine Gilruth"
+                ]
+              }
+            },
+            {
+              "text": "She has served as Minister for Europe and International Development since 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Europe and International Development"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Scottish politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "May 2016",
+          "template": "engvarb"
+        },
+        {
+          "birth_year": "1984",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jenny Gilruth"
+          },
+          "honorific-suffix": {
+            "text": "MSP",
+            "links": [
+              {
+                "text": "MSP",
+                "type": "internal",
+                "page": "Member of the Scottish Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "Jenny_Gilruth_MSP.jpg"
+          },
+          "office": {
+            "text": "Minister for Culture, Europe and International Development",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Culture, Europe and International Development"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 February 2020"
+          },
+          "predecessor": {
+            "text": "Ben Macpherson",
+            "links": [
+              {
+                "text": "Ben Macpherson",
+                "type": "internal",
+                "page": "Ben Macpherson (politician)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Jennifer Madeleine Gilruth"
+          },
+          "birth_date": {
+            "text": "1984 (age 37)"
+          },
+          "birth_place": {
+            "text": "Aberdeen, Scotland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aberdeen"
+              }
+            ]
+          },
+          "party": {
+            "text": "Scottish National Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scottish National Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Glasgow\nUniversity of Strathclyde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Glasgow"
+              },
+              {
+                "type": "internal",
+                "page": "University of Strathclyde"
+              }
+            ]
+          },
+          "partner": {
+            "text": "Kezia Dugdale (2017–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kezia Dugdale"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.jennygilruthmsp.scot"
+          },
+          "office1": {
+            "text": "Member of the Scottish Parliament\nfor Mid Fife and Glenrothes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Scottish Parliament"
+              },
+              {
+                "text": "Mid Fife and Glenrothes",
+                "type": "internal",
+                "page": "Mid Fife and Glenrothes (Scottish Parliament constituency)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "6 May 2016"
+          },
+          "predecessor1": {
+            "text": "Tricia Marwick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tricia Marwick"
+              }
+            ]
+          },
+          "majority1": {
+            "text": "8,276",
+            "number": 8276
+          },
+          "nationality": {
+            "text": "Scottish"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "caption": {
+            "text": "Official portrait, 2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bbc.co.uk/news/politics/scotland-constituencies/S16000129",
+          "title": "Mid Fife and Glenrothes",
+          "work": "BBC News",
+          "date": "6 May 2016",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20170216215233/http://www.bbc.co.uk/news/politics/scotland-constituencies/S16000129",
+          "archive-date": "16 February 2017",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
