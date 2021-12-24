@@ -1,0 +1,36 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q1362216,First Minister of Scotland,Q145,Q22,,Q4435674,1999-05-07,,,,First Minister of Scotland
+Q5261035,Deputy First Minister of Scotland,Q145,Q22,,,1999,,,,Deputy First Minister of Scotland
+Q106906212,Cabinet Secretary for Covid Recovery,,Q22,,,2021-05,,,,Cabinet Secretary for Covid Recovery
+Q5015475,Cabinet Secretary for Education and Lifelong Learning,Q145,Q22,,Q20995360,1999-05,,,,Cabinet Secretary for Education and Skills
+Q107694344,Cabinet Secretary for Finance and the Economy,Q145,Q22,,,,,,,
+Q107694341,Cabinet Secretary for Health and Social Care,Q145,Q22,,,,,,,
+Q107694363,Cabinet Secretary for Justice and Veterans,Q145,Q22,,,,,,,
+Q107694359,"Cabinet Secretary for Net Zero, Energy and Transport",Q145,Q22,,,,,,,
+Q107694337,Cabinet Secretary for Rural Affairs and Islands,Q145,Q22,,,,,,,
+Q107694357,"Cabinet Secretary for Social Justice, Housing and Local Government",Q145,Q22,,,,,,,
+Q107694326,"Cabinet Secretary for the Constitution, External Affairs and Culture",Q145,Q22,,,,,,,"Cabinet Secretary for the Constitution, External Affairs and Culture"
+Q6865811,"Minister for Business, Energy and Tourism",Q145,Q22,,,,,,,"Minister for Business, Trade, Tourism and Enterprise"
+Q25395293,Minister for Children and Young People,,Q22,,,,,,,Minister for Children and Young People
+Q30868809,Minister for Communities,,Q22,,,2003-05-20,,,,
+Q6865773,Minister for Community Safety and Legal Affairs,Q145,Q22,,,,,,,Minister for Community Safety
+Q30893554,Minister for Culture and External Affairs,,Q22,,,,,,,
+Q20042662,Minister for Employability and Training,Q145,Q22,,,,,,,Minister for Employability and Training
+Q6865814,Minister for Enterprise and Lifelong Learning,,Q22,,,1990,,,,Minister for Enterprise and Lifelong Learning
+Q6865820,Minister for Europe and International Development,Q145,Q22,,,,,,,"Minister for Culture, Europe and International Development"
+Q30768476,Minister for Finance,,Q22,,,1999-05-17,,,,
+Q6865911,"Minister for Further Education, Higher Education and Science",Q145,Q22,,,,,,,"Minister for Higher Education and Further Education, Youth Employment and Training"
+Q485494,Minister for Gaelic,Q145,Q22,,,1997-05,2016-05-18,,,Minister for Gaelic
+Q6865870,Minister for Housing and Welfare,Q145,Q22,,,,,,,Minister for Housing and Welfare
+Q6865944,Minister for Public Health,Q145,Q22,,,,,,,"Minister for Public Health, Women's Health and Sport"
+Q30768016,"Minister for Social Inclusion, Local Government and Housing",,Q22,,,1999-05-17,,,,
+Q30779962,Minister for Social Justice,,Q22,,,2000-10-27,,,,
+Q18760239,"Minister for Sport, Health Improvement and Mental Health",Q145,Q22,,,,,,,Minister for Mental Wellbeing and Social Care
+Q30769264,Minister for Transport and the Environment,,Q22,,,1999-05-17,,,,
+Q28224782,Minister for UK Negotiations on Scotland's Place in Europe,,Q22,,,2016-08-26,,,,
+Q30912671,Minister for Youth Employment,,Q22,,,,,,,
+Q3567536,Presiding Officer of the Scottish Parliament,,Q22,,,1999,,,,Presiding Officer of the Scottish Parliament
+Q1807003,Lord Advocate,Q145,Q22,Q1154402,,1483,,,,Lord Advocate
+Q2928362,Advocate General for Scotland,Q145,Q22,,,1999,,,,Advocate General for Scotland
+Q1154402,Solicitor General for Scotland,Q145,Q22,,,1696,,,,Solicitor General for Scotland
+Q21857335,Auditor General for Scotland,Q145,Q22,,,,,,,Auditor General for Scotland
