@@ -1,0 +1,249 @@
+{
+  "title": "Graeme Dey",
+  "pageID": 31692442,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Members of the Scottish Parliament 2011–2016",
+    "Scottish National Party MSPs",
+    "Members of the Scottish Parliament 2016–2021",
+    "Members of the Scottish Parliament 2021–2026"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Graeme James Dey (born 29 October 1962) is a Scottish politician who has served as Minister for Transport since 2021, having previously served as Minister for Parliamentary Business and Veterans from 2018 to 2021.",
+              "links": [
+                {
+                  "text": "Minister for Transport",
+                  "type": "internal",
+                  "page": "Minister for Transport (Scotland)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister for Parliamentary Business and Veterans"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Graeme James Dey"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Scottish National Party (SNP), he has been the Member of the Scottish Parliament (MSP) for Angus South since 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scottish National Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of the Scottish Parliament"
+                },
+                {
+                  "text": "Angus South",
+                  "type": "internal",
+                  "page": "Angus South (Scottish Parliament constituency)"
+                },
+                {
+                  "text": "2011",
+                  "type": "internal",
+                  "page": "2011 Scottish Parliament election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Scottish politician (born 1962)",
+          "template": "short description"
+        },
+        {
+          "date": "October 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1962",
+          "month": "10",
+          "day": "29",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Graeme Dey"
+          },
+          "honorific-suffix": {
+            "text": "MSP",
+            "links": [
+              {
+                "text": "MSP",
+                "type": "internal",
+                "page": "Member of the Scottish Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "Graeme_Dey_MSP.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2021"
+          },
+          "office": {
+            "text": "Minister for Transport",
+            "links": [
+              {
+                "text": "Minister for Transport",
+                "type": "internal",
+                "page": "Minister for Transport (Scotland)"
+              }
+            ]
+          },
+          "firstminister": {
+            "text": "Nicola Sturgeon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Sturgeon"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "20 May 2021"
+          },
+          "predecessor": {
+            "text": "Paul Wheelhouse",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Wheelhouse"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Parliamentary Business and Veterans",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Parliamentary Business and Veterans"
+              }
+            ]
+          },
+          "firstminister1": {
+            "text": "Nicola Sturgeon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Sturgeon"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "27 June 2018"
+          },
+          "term_end1": {
+            "text": "20 May 2021"
+          },
+          "predecessor1": {
+            "text": "Joe FitzPatrick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe FitzPatrick"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "George Adam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "George Adam"
+              }
+            ]
+          },
+          "constituency_mp2": {
+            "text": "Angus South",
+            "links": [
+              {
+                "text": "Angus South",
+                "type": "internal",
+                "page": "Angus South (Scottish Parliament constituency)"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Scottish"
+          },
+          "majority2": {
+            "text": "6,117",
+            "number": 6117
+          },
+          "term_start2": {
+            "text": "6 May 2011"
+          },
+          "predecessor2": {
+            "text": "new constituency",
+            "formatting": {
+              "italic": [
+                "new constituency"
+              ]
+            }
+          },
+          "birth_date": {
+            "text": "October 29, 1962"
+          },
+          "birth_place": {
+            "text": "Aberdeen, Scotland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aberdeen"
+              },
+              {
+                "type": "internal",
+                "page": "Scotland"
+              }
+            ]
+          },
+          "party": {
+            "text": "Scottish National Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scottish National Party"
+              }
+            ]
+          },
+          "website": {
+            "text": "http://graemedeymsp.co.uk"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.scottish.parliament.uk/msps/currentmsps/27503.aspx",
+          "title": "Personal Information",
+          "work": "scottish.parliament.uk",
+          "publisher": "Scottish Parliament",
+          "access-date": "31 August 2014",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20141129025542/http://www.scottish.parliament.uk/msps/currentmsps/27503.aspx",
+          "archive-date": "29 November 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
