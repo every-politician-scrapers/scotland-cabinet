@@ -769,54 +769,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.theguardian.com/politics/2014/sep/19/alex-salmond-resignation-nicola-sturgeon-destiny",
-          "title": "Alex Salmond's resignation could give Nicola Sturgeon her day of destiny",
-          "author": "Libby Brooks",
-          "work": "The Guardian",
-          "date": "19 September 2014",
-          "access-date": "19 November 2014",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20141209154913/http://www.theguardian.com/politics/2014/sep/19/alex-salmond-resignation-nicola-sturgeon-destiny",
-          "archive-date": "9 December 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.bbc.com/news/uk-scotland-scotland-politics-30011421",
-          "title": "The transition from Alex Salmond to Nicola Sturgeon",
-          "first": "Glenn",
-          "last": "Campbell",
-          "work": "BBC News",
-          "date": "13 November 2014",
-          "access-date": "19 November 2014",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20141117032228/http://www.bbc.com/news/uk-scotland-scotland-politics-30011421",
-          "archive-date": "17 November 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.theguardian.com/politics/2015/apr/07/snp-independence-referendum-wins-scottish-parliamentary-elections-nicola-sturgeon",
-          "title": "SNP could hold independence referendum if it wins in 2016",
-          "author": "Severin Carrell",
-          "work": "The Guardian",
-          "date": "7 April 2015",
-          "access-date": "15 October 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.bbc.com/news/uk-scotland-scotland-politics-30011421",
-          "title": "Sturgeon: Second referendum 'if and when Scotland wants it'",
-          "work": "BBC News",
-          "date": "31 July 2015",
-          "access-date": "15 October 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

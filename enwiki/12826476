@@ -521,25 +521,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "SQA and Education Scotland to be reformed",
-          "url": "https://www.heraldscotland.com/news/19348497.sqa-education-scotland-reformed/",
-          "access-date": "2021-07-31",
-          "website": "HeraldScotland",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Shirley-Anne Somerville MSP - gov.scot",
-          "url": "https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/shirley-anne-somerville/",
-          "access-date": "2021-07-31",
-          "website": "www.gov.scot",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

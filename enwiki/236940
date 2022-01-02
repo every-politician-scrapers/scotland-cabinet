@@ -713,34 +713,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://news.bbc.co.uk/2/hi/in_depth/uk_politics/2000/conferences/snp/938727.stm",
-          "title": "Emphatic SNP win for Swinney",
-          "publisher": "BBC News",
-          "access-date": "2020-04-05",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://news.bbc.co.uk/2/hi/in_depth/scotland/2001/mcleish_resignation/1645219.stm",
-          "title": "McLeish steps down",
-          "date": "2001-11-08",
-          "access-date": "2020-04-05",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.scotsman.com/news/politics/euro-poll-was-breaking-point-swinney-2507632",
-          "title": "Euro poll was breaking point for Swinney",
-          "website": "The Scotsman",
-          "language": "en",
-          "access-date": "2020-04-05",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
