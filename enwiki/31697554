@@ -558,26 +558,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://news.bbc.co.uk/democracylive/hi/scotland/newsid_9749000/9749227.stm",
-          "title": "Democracy live: Ministerial appointments debate",
-          "work": "BBC News",
-          "publisher": "BBC",
-          "date": "5 September 2012",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://news.scotland.gov.uk/News/Building-links-with-Pakistan-541.aspx",
-          "title": "Building links with Pakistan",
-          "publisher": "Scottish Government",
-          "date": "18 October 2013",
-          "access-date": "1 February 2015",
-          "template": "citation",
-          "type": "press release"
-        }
       ]
     }
   ]

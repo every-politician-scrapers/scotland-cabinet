@@ -347,21 +347,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "list": [
-            "The office was known as Cabinet Secretary for Transport, Infrastructure and Connectivity from 2018 to 2021."
-          ],
-          "group": "n",
-          "template": "refn"
-        }
       ]
     }
   ]

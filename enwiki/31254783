@@ -318,25 +318,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.advocates.org.uk/advocates/dorothy-ruth-bain",
-          "title": "Dorothy Ruth Bain",
-          "website": "Faculty of Advocates",
-          "language": "en-GB",
-          "access-date": "2019-04-22",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Dorothy Bain QC - gov.scot",
-          "url": "https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/dorothy-bain-qc/",
-          "access-date": "2021-07-14",
-          "website": "www.gov.scot",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -341,25 +341,6 @@
             "text": "http://shona.robison.scot"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.bcomm-scotland.gov.uk/1st_holyrood/1st_holyrood.htm",
-          "title": "First Periodical Review of Scottish Parliament Boundaries, Boundary Commission for Scotland website, accessed 20 December 2008",
-          "access-date": "15 February 2008",
-          "archive-url": "https://web.archive.org/web/20080217060718/http://www.bcomm-scotland.gov.uk/1st_holyrood/1st_holyrood.htm",
-          "archive-date": "17 February 2008",
-          "url-status": "dead",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

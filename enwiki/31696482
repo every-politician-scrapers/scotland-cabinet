@@ -404,38 +404,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "author": "Lindsey Johnstone",
-          "date": "6 May 2011",
-          "title": "Scotland fails to go Green",
-          "url": "http://www.heraldscotland.com/news/13041299.Scotland_fails_to_go_Green",
-          "publisher": "Herald Scotland",
-          "accessdate": "27 January 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://edinburghnews.scotsman.com/topstories/Scottish-Parliament-election-Profiles-of.6764169.jp",
-          "title": "Scottish Parliament election: Profiles of the candidates elected to serve in Edinburgh",
-          "author": "Chris Marshall and Carla Gray",
-          "work": "Edinburgh Evening News",
-          "date": "7 May 2011",
-          "accessdate": "7 May 2011",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20110509083940/http://edinburghnews.scotsman.com/topstories/Scottish-Parliament-election-Profiles-of.6764169.jp",
-          "archivedate": "9 May 2011",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "group": "n",
-          "list": [
-            "Party membership suspended while Presiding Officer"
-          ],
-          "template": "refn"
-        }
       ]
     }
   ]
