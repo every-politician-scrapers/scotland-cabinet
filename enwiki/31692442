@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Graeme James Dey (born 29 October 1962) is a Scottish politician who has served as Minister for Transport since 2021, having previously served as Minister for Parliamentary Business and Veterans from 2018 to 2021.",
+              "text": "Graeme James Dey (born 29 October 1962) is a Scottish politician who served as Minister for Transport from 2021 until 2022, having previously served as Minister for Parliamentary Business and Veterans from 2018 to 2021.",
               "links": [
                 {
                   "text": "Minister for Transport",
@@ -120,6 +120,9 @@
           },
           "term_start": {
             "text": "20 May 2021"
+          },
+          "term_end": {
+            "text": "24 January 2022"
           },
           "predecessor": {
             "text": "Paul Wheelhouse",
