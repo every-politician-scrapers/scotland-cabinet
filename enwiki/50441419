@@ -51,8 +51,17 @@
               }
             },
             {
-              "text": "She has served as Minister for Europe and International Development since 2020.",
+              "text": "She has served in the Scottish Government as Minister for Transport since January 2022, having previously been a junior Minister for Europe and International Development from 2020 to 2022.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Scottish Government"
+                },
+                {
+                  "text": "Minister for Transport",
+                  "type": "internal",
+                  "page": "Minister for Transport (Scotland)"
+                },
                 {
                   "type": "internal",
                   "page": "Minister for Europe and International Development"
@@ -99,6 +108,37 @@
             "text": "Jenny_Gilruth_MSP.jpg"
           },
           "office": {
+            "text": "Minister for Transport",
+            "links": [
+              {
+                "text": "Minister for Transport",
+                "type": "internal",
+                "page": "Minister for Transport (Scotland)"
+              }
+            ]
+          },
+          "firstminister": {
+            "text": "Nicola Sturgeon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Sturgeon"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 January 2022"
+          },
+          "predecessor": {
+            "text": "Graeme Dey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Graeme Dey"
+              }
+            ]
+          },
+          "office1": {
             "text": "Minister for Culture, Europe and International Development",
             "links": [
               {
@@ -107,16 +147,28 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "17 February 2020"
           },
-          "predecessor": {
+          "term_end1": {
+            "text": "24 January 2022"
+          },
+          "predecessor1": {
             "text": "Ben Macpherson",
             "links": [
               {
                 "text": "Ben Macpherson",
                 "type": "internal",
                 "page": "Ben Macpherson (politician)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Neil Gray",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Neil Gray"
               }
             ]
           },
@@ -169,7 +221,7 @@
           "website": {
             "text": "https://www.jennygilruthmsp.scot"
           },
-          "office1": {
+          "office2": {
             "text": "Member of the Scottish Parliament\nfor Mid Fife and Glenrothes",
             "links": [
               {
@@ -183,10 +235,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "6 May 2016"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Tricia Marwick",
             "links": [
               {
@@ -195,7 +247,7 @@
               }
             ]
           },
-          "majority1": {
+          "majority2": {
             "text": "8,276",
             "number": 8276
           },
