@@ -259,6 +259,15 @@
           },
           "caption": {
             "text": "Official portrait, 2021"
+          },
+          "firstminister1": {
+            "text": "Nicola Sturgeon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Sturgeon"
+              }
+            ]
           }
         }
       ]
