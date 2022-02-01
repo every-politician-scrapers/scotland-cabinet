@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Angela Constance (born 15 July 1970) is a Scottish politician serving as Minister for Drug Policy since 2020, having previously served in the Scottish Cabinet from 2014 to 2018.",
+              "text": "Angela Constance (born 15 July 1970) is a Scottish politician serving as Minister for Drug Policy since 2020, having previously served in the Scottish Cabinet from 2014-18.",
               "links": [
                 {
                   "text": "Scottish",
@@ -453,7 +453,7 @@
             "text": "July 15, 1970"
           },
           "birth_place": {
-            "text": "Blackburn, West Lothian Scotland",
+            "text": "Blackburn, West Lothian, Scotland, UK",
             "links": [
               {
                 "text": "Blackburn",
