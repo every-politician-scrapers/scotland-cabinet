@@ -28,9 +28,8 @@
               "text": "Humza Haroon Yousaf (born 7 April 1985) is a Scottish politician serving as Cabinet Secretary for Health and Social Care since 2021.",
               "links": [
                 {
-                  "text": "Cabinet Secretary for Health and Social Care",
                   "type": "internal",
-                  "page": "Cabinet Secretary for Health and Sport"
+                  "page": "Cabinet Secretary for Health and Social Care"
                 }
               ],
               "formatting": {
@@ -40,17 +39,21 @@
               }
             },
             {
-              "text": "He is the first non-white and first Muslim member of the Scottish Cabinet. A member of the Scottish National Party (SNP), he has been the Member of the Scottish Parliament (MSP) for Glasgow Pollok since 2016, having previously represented Glasgow region from 2011 to 2016.",
+              "text": "He is the first non-white and first Muslim cabinet minister in the Scottish Government.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Muslim"
                 },
                 {
-                  "text": "Scottish Cabinet.",
                   "type": "internal",
                   "page": "Scottish Government"
-                },
+                }
+              ]
+            },
+            {
+              "text": "A member of the Scottish National Party (SNP), he has been the Member of the Scottish Parliament (MSP) for Glasgow Pollok since 2016, having previously represented Glasgow region from 2011 to 2016.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Scottish National Party"
