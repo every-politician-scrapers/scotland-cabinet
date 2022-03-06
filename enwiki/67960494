@@ -56,6 +56,10 @@
       ],
       "templates": [
         {
+          "description": "Scottish lawyer (born 1973)",
+          "template": "short description"
+        },
+        {
           "date": "November 2012",
           "template": "use dmy dates"
         }
