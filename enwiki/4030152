@@ -1,522 +1,58 @@
 {
-  "title": "Angela Constance",
-  "pageID": 4030152,
-  "categories": [
-    "1970 births",
-    "Living people",
-    "Alumni of the University of Glasgow",
-    "People from Blackburn, West Lothian",
-    "Scottish National Party MSPs",
-    "Members of the Scottish Parliament 2007–2011",
-    "Members of the Scottish Parliament 2011–2016",
-    "Members of the Scottish Parliament 2016–2021",
-    "Members of the Scottish Parliament 2021–2026",
-    "Women members of the Scottish Government",
-    "Scottish social workers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Angela Constance (born 15 July 1970) is a Scottish politician serving as Minister for Drug Policy since 2020, having previously served in the Scottish Cabinet from 2014-18.",
-              "links": [
-                {
-                  "text": "Scottish",
-                  "type": "internal",
-                  "page": "Scottish people"
-                },
-                {
-                  "text": "Minister for Drug Policy",
-                  "type": "internal",
-                  "page": "Minister for Drugs Policy"
-                },
-                {
-                  "type": "internal",
-                  "page": "Scottish Cabinet"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Angela Constance"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Scottish National Party (SNP), she has been the Member of the Scottish Parliament (MSP) for Almond Valley since 2007.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Scottish National Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Member of the Scottish Parliament"
-                },
-                {
-                  "text": "Almond Valley",
-                  "type": "internal",
-                  "page": "Almond Valley (Scottish Parliament constituency)"
-                },
-                {
-                  "text": "2007",
-                  "type": "internal",
-                  "page": "2007 Scottish Parliament election"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Constance stood as a candidate for Deputy leader of the SNP in the party's 2014 leadership contest, but lost to Stewart Hosie.",
-              "links": [
-                {
-                  "text": "party's 2014 leadership contest",
-                  "type": "internal",
-                  "page": "2014 Scottish National Party leadership election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Stewart Hosie"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Scottish National Party politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "November 2019",
-          "template": "use british english"
-        },
-        {
-          "year": "1970",
-          "month": "07",
-          "day": "15",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Angela Constance"
-          },
-          "honorific-suffix": {
-            "text": "MSP",
-            "links": [
-              {
-                "text": "MSP",
-                "type": "internal",
-                "page": "Member of the Scottish Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "File:Minister for Drugs Policy, Angela Constance.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2021"
-          },
-          "office": {
-            "text": "Minister for Drugs Policy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Drugs Policy"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 December 2020"
-          },
-          "firstminister": {
-            "text": "Nicola Sturgeon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicola Sturgeon"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "office1": {
-            "text": "Cabinet Secretary for Communities, Social Security and Equalities",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet Secretary for Communities, Social Security and Equalities"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "18 May 2016"
-          },
-          "term_end1": {
-            "text": "26 June 2018"
-          },
-          "firstminister1": {
-            "text": "Nicola Sturgeon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicola Sturgeon"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Alex Neil",
-            "links": [
-              {
-                "text": "Alex Neil",
-                "type": "internal",
-                "page": "Alex Neil (politician)"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Aileen Campbell",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aileen Campbell"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Cabinet Secretary for Education and Lifelong Learning",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet Secretary for Education and Lifelong Learning"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "21 November 2014"
-          },
-          "term_end2": {
-            "text": "18 May 2016"
-          },
-          "firstminister2": {
-            "text": "Nicola Sturgeon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicola Sturgeon"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Michael Russell",
-            "links": [
-              {
-                "text": "Michael Russell",
-                "type": "internal",
-                "page": "Michael Russell (Scottish politician)"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "John Swinney",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Swinney"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Cabinet Secretary for Training, Youth and Women’s Employment",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet Secretary for Training, Youth and Women’s Employment"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "22 April 2014"
-          },
-          "term_end3": {
-            "text": "21 November 2014"
-          },
-          "firstminister3": {
-            "text": "Alex Salmond",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alex Salmond"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "successor3": {
-            "text": "Roseanna Cunningham",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roseanna Cunningham"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister for Youth Employment",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Youth Employment"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "7 December 2011"
-          },
-          "term_end4": {
-            "text": "22 April 2014"
-          },
-          "firstminister4": {
-            "text": "Alex Salmond",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alex Salmond"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "successor4": {
-            "text": "Annabelle Ewing",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Annabelle Ewing"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister for Children and Young People",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Children and Young People"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "20 May 2011"
-          },
-          "term_end5": {
-            "text": "7 December 2011"
-          },
-          "firstminister5": {
-            "text": "Alex Salmond",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alex Salmond"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Adam Ingram",
-            "links": [
-              {
-                "text": "Adam Ingram",
-                "type": "internal",
-                "page": "Adam Ingram (SNP)"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Aileen Campbell",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aileen Campbell"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister for Skills and Lifelong Learning",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Skills and Lifelong Learning"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "12 December 2010"
-          },
-          "term_end6": {
-            "text": "20 May 2011"
-          },
-          "firstminister6": {
-            "text": "Alex Salmond",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alex Salmond"
-              }
-            ]
-          },
-          "predecessor6": {
-            "text": "Keith Brown",
-            "links": [
-              {
-                "text": "Keith Brown",
-                "type": "internal",
-                "page": "Keith Brown (Scottish politician)"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Alasdair Allan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alasdair Allan"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of the Scottish Parliament\nfor Almond Valley\nLivingston (2007–2011)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the Scottish Parliament"
-              },
-              {
-                "text": "Almond Valley",
-                "type": "internal",
-                "page": "Almond Valley (Scottish Parliament constituency)"
-              },
-              {
-                "text": "Livingston",
-                "type": "internal",
-                "page": "Livingston (Scottish Parliament constituency)"
-              }
-            ]
-          },
-          "majority7": {
-            "text": "8,393",
-            "number": 8393
-          },
-          "term_start7": {
-            "text": "3 May 2007"
-          },
-          "predecessor7": {
-            "text": "Bristow Muldoon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bristow Muldoon"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "July 15, 1970"
-          },
-          "birth_place": {
-            "text": "Blackburn, West Lothian, Scotland, UK",
-            "links": [
-              {
-                "text": "Blackburn",
-                "type": "internal",
-                "page": "Blackburn (West Lothian)"
-              },
-              {
-                "type": "internal",
-                "page": "West Lothian"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Scottish",
-            "links": [
-              {
-                "text": "Scottish",
-                "type": "internal",
-                "page": "Scotland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Scottish National Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scottish National Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Gary Knox (m. 2000)"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "alma_mater": {
-            "text": "University of Glasgow\nUniversity of Stirling",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Glasgow"
-              },
-              {
-                "type": "internal",
-                "page": "University of Stirling"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Social worker",
-            "links": [
-              {
-                "text": "Social worker",
-                "type": "internal",
-                "page": "Social work"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Angela Constance",
+  "honorific-suffix": "MSP",
+  "image": "File:Minister for Drugs Policy, Angela Constance.jpg",
+  "caption": "Official portrait, 2021",
+  "office": "Minister for Drugs Policy",
+  "term_start": "18 December 2020",
+  "firstminister": "Nicola Sturgeon",
+  "predecessor": "Office established",
+  "office1": "Cabinet Secretary for Communities, Social Security and Equalities",
+  "term_start1": "18 May 2016",
+  "term_end1": "26 June 2018",
+  "firstminister1": "Nicola Sturgeon",
+  "predecessor1": "Alex Neil",
+  "successor1": "Aileen Campbell",
+  "office2": "Cabinet Secretary for Education and Lifelong Learning",
+  "term_start2": "21 November 2014",
+  "term_end2": "18 May 2016",
+  "firstminister2": "Nicola Sturgeon",
+  "predecessor2": "Michael Russell",
+  "successor2": "John Swinney",
+  "office3": "Cabinet Secretary for Training, Youth and Women’s Employment",
+  "term_start3": "22 April 2014",
+  "term_end3": "21 November 2014",
+  "firstminister3": "Alex Salmond",
+  "predecessor3": "Office established",
+  "successor3": "Roseanna Cunningham",
+  "office4": "Minister for Youth Employment",
+  "term_start4": "7 December 2011",
+  "term_end4": "22 April 2014",
+  "firstminister4": "Alex Salmond",
+  "predecessor4": "Office established",
+  "successor4": "Annabelle Ewing",
+  "office5": "Minister for Children and Young People",
+  "term_start5": "20 May 2011",
+  "term_end5": "7 December 2011",
+  "firstminister5": "Alex Salmond",
+  "predecessor5": "Adam Ingram",
+  "successor5": "Aileen Campbell",
+  "office6": "Minister for Skills and Lifelong Learning",
+  "term_start6": "12 December 2010",
+  "term_end6": "20 May 2011",
+  "firstminister6": "Alex Salmond",
+  "predecessor6": "Keith Brown",
+  "successor6": "Alasdair Allan",
+  "office7": "Member of the Scottish Parliament\nfor Almond Valley\nLivingston (2007–2011)",
+  "majority7": "8,393",
+  "term_start7": "3 May 2007",
+  "predecessor7": "Bristow Muldoon",
+  "birth_date": "July 15, 1970",
+  "birth_place": "Blackburn, West Lothian, Scotland, UK",
+  "nationality": "Scottish",
+  "party": "Scottish National Party",
+  "spouse": "Gary Knox (m. 2000)",
+  "children": "1",
+  "alma_mater": "University of Glasgow\nUniversity of Stirling",
+  "profession": "Social worker"
 }
