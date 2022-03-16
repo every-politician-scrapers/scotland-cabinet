@@ -1,95 +1,95 @@
 id,name,relationship,relative,relativename
-Q1097337,Claudia Beamish,father,Q7851527,"Tufton Beamish, Baron Chelwood"
-Q1097337,Claudia Beamish,mother,Q75648943,Janet McMillan Stevenson
-Q1108359,"Colin Boyd, Baron Boyd of Duncansby",father,Q75532126,David Hugh Aird Boyd
-Q1108359,"Colin Boyd, Baron Boyd of Duncansby",mother,Q75532128,Betty Meldrum
-Q1108359,"Colin Boyd, Baron Boyd of Duncansby",spouse,Q75532141,Fiona Margaret MacLeod
-Q1495635,John Finnie,child,Q24034376,Ruth Maguire
-Q1507362,"George Foulkes, Baron Foulkes of Cumnock",father,Q75450423,George Foulkes
-Q1507362,"George Foulkes, Baron Foulkes of Cumnock",mother,Q75450424,Jessie Foulkes
-Q1507362,"George Foulkes, Baron Foulkes of Cumnock",spouse,Q75450427,Elizabeth Anna Hope
-Q16191157,Alex Rowley,child,Q30163628,Danielle Rowley
-Q1680794,Jamie McGrigor,child,Q76062448,Sibylla McGrigor
-Q1680794,Jamie McGrigor,child,Q76062450,Sarah McGrigor
-Q1680794,Jamie McGrigor,child,Q76062456,Alexander James Edward Lyon McGrigor
-Q1680794,Jamie McGrigor,child,Q76062457,Violet Mary Clementina McGrigor
-Q1680794,Jamie McGrigor,child,Q76280466,Davina Mary Shira McGrigor
-Q1680794,Jamie McGrigor,child,Q76288785,Rosanna Mary Talulla McGrigor
-Q1680794,Jamie McGrigor,father,Q75908427,"Sir Charles McGrigor, 5th Bt."
-Q1680794,Jamie McGrigor,mother,Q75908426,Mary Edmonstone
-Q1680794,Jamie McGrigor,spouse,Q76062447,Caroline F. Roboh
-Q1680794,Jamie McGrigor,spouse,Q76062455,Emma Mary Louise Fellowes
-Q1681420,Jamie Stone,child,Q76112453,Rupert Michael Stone
-Q1681420,Jamie Stone,child,Q76112454,Georgina Stone
-Q1681420,Jamie Stone,child,Q76112455,Katharine Madeleine Lestrange Stone
-Q1681420,Jamie Stone,father,Q76112451,Edward Reginald Stone
-Q1681420,Jamie Stone,spouse,Q75639056,Florence Kathleen Margaret Armstrong
-Q16849685,James Wolffe,spouse,Q18163522,"Sarah P. L. Wolffe, Lady Wolffe"
-Q1685871,Jean Urquhart,spouse,Q1609787,Robert Urquhart
-Q1726790,Siobhan McMahon,father,Q2439870,Michael McMahon
-Q24034308,Oliver Mundell,father,Q333520,David Mundell
-Q24034376,Ruth Maguire,father,Q1495635,John Finnie
-Q24034422,Alexander Burnett,child,Q75568027,Amaryllis Burnett
-Q24034422,Alexander Burnett,child,Q75651349,Thomas Burnett
-Q24034422,Alexander Burnett,child,Q75930772,Hester Burnett
-Q24034422,Alexander Burnett,father,Q75326124,James Burnett of Leys
-Q24034422,Alexander Burnett,mother,Q75393425,Fiona Phillips
-Q24034422,Alexander Burnett,sibling,Q75244927,Victor Burnett
-Q24034422,Alexander Burnett,sibling,Q75244929,Eliza Burnett
-Q24034422,Alexander Burnett,spouse,Q75568025,Lavinia Cox
-Q24039768,Edward Mountain,child,Q76082478,Thomas Denis Edward Mountain
-Q24039768,Edward Mountain,child,Q76082479,Harry Brian Pownall Mountain
-Q24039768,Edward Mountain,child,Q76082481,Camilla Margaret Mountain
-Q24039768,Edward Mountain,father,Q75951876,"Sir Denis Mountain, 3rd Bt."
-Q24039768,Edward Mountain,mother,Q75951875,Hélène Kirwan-Taylor
-Q24039768,Edward Mountain,spouse,Q76082477,Charlotte Sarah Jesson Pownall
-Q24045406,Alex Cole-Hamilton,father,Q18620305,David J. Cole-Hamilton
-Q24045406,Alex Cole-Hamilton,mother,Q75659202,Elizabeth Ann Brown
-Q24052673,Donald Cameron,child,Q76098710,Finnian Cameron
-Q24052673,Donald Cameron,child,Q76098712,Donald Cameron
-Q24052673,Donald Cameron,child,Q76259879,Rose Cameron
-Q24052673,Donald Cameron,father,Q75331710,"Donald Cameron of Lochiel, 27th Chief of Clan Cameron"
-Q24052673,Donald Cameron,mother,Q75331715,Lady Cecil Kerr
-Q24052673,Donald Cameron,sibling,Q75331718,Catherine Cameron
-Q24052673,Donald Cameron,sibling,Q75331719,Lucy Cameron
-Q24052673,Donald Cameron,sibling,Q75331721,Emily Cameron
-Q24052673,Donald Cameron,spouse,Q75521466,Sarah Maclay
-Q2439870,Michael McMahon,child,Q1726790,Siobhan McMahon
-Q333158,Donald Dewar,spouse,Q76057348,Alison Mary McNair
-Q333520,David Mundell,child,Q24034308,Oliver Mundell
-Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390683,"John Andrew Douglas-Hamilton, Lord Daer"
-Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390685,Charles Douglas Douglas-Hamilton
-Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390686,James Robert Douglas-Hamilton
-Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390688,Harry Alexander Douglas-Hamilton
-Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",father,Q332941,"Douglas Douglas-Hamilton, 14th Duke of Hamilton"
-Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",mother,Q5362691,"Elizabeth Douglas-Hamilton, Duchess of Hamilton and Brandon"
-Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",spouse,Q75390680,Priscilla Susan Buchan
-Q333847,David Steel,father,Q5240041,David Steel
-Q333847,David Steel,mother,Q76347545,Sheila Eunice Nanette Martin
-Q333847,David Steel,spouse,Q76347546,Judith Mary Macgregor
-Q333903,Margaret Ewing,spouse,Q559022,Fergus Ewing
-Q334015,Winnie Ewing,child,Q559022,Fergus Ewing
-Q334015,Winnie Ewing,child,Q564093,Annabelle Ewing
-Q334376,Margo MacDonald,spouse,Q6198115,Jim Sillars
-Q444675,Shona Robison,spouse,Q689514,Stewart Hosie
-Q467112,Nicola Sturgeon,mother,Q107359230,Joan Sturgeon
-Q467112,Nicola Sturgeon,spouse,Q61819939,Peter Murrell
-Q478812,Anas Sarwar,father,Q334072,Mohammad Sarwar
-Q505043,"Andrew Hardie, Baron Hardie",child,Q76063557,Ewan Hardie
-Q505043,"Andrew Hardie, Baron Hardie",child,Q76063640,Niall Hardie
-Q505043,"Andrew Hardie, Baron Hardie",child,Q76073957,Ruth Hardie
-Q505043,"Andrew Hardie, Baron Hardie",father,Q76086177,Andrew Rutherford Hardie
-Q505043,"Andrew Hardie, Baron Hardie",mother,Q76086178,Elizabeth Currie Lowe
-Q505043,"Andrew Hardie, Baron Hardie",spouse,Q76054701,Catherine Storray Elgin
-Q511689,Wendy Alexander,sibling,Q259106,Douglas Alexander
-Q559022,Fergus Ewing,mother,Q334015,Winnie Ewing
-Q559022,Fergus Ewing,sibling,Q564093,Annabelle Ewing
-Q559022,Fergus Ewing,spouse,Q333903,Margaret Ewing
-Q559046,Alex Fergusson,child,Q75923921,Iain Alexander Charles Onslow Fergusson
-Q559046,Alex Fergusson,child,Q75923925,Dougal George Onslow Fergusson
-Q559046,Alex Fergusson,child,Q75923927,Christopher David Onslow Fergusson
-Q559046,Alex Fergusson,father,Q75923912,Simon Fergusson
-Q559046,Alex Fergusson,mother,Q75923915,Auriole Hughes-Onslow
-Q559046,Alex Fergusson,spouse,Q75923919,Jane Merryn Barthold
-Q564093,Annabelle Ewing,mother,Q334015,Winnie Ewing
-Q564093,Annabelle Ewing,sibling,Q559022,Fergus Ewing
+Q1097337,Claudia Beamish,father,Q7851527,
+Q1097337,Claudia Beamish,mother,Q75648943,
+Q1108359,"Colin Boyd, Baron Boyd of Duncansby",father,Q75532126,
+Q1108359,"Colin Boyd, Baron Boyd of Duncansby",mother,Q75532128,
+Q1108359,"Colin Boyd, Baron Boyd of Duncansby",spouse,Q75532141,
+Q1495635,John Finnie,child,Q24034376,
+Q1507362,"George Foulkes, Baron Foulkes of Cumnock",father,Q75450423,
+Q1507362,"George Foulkes, Baron Foulkes of Cumnock",mother,Q75450424,
+Q1507362,"George Foulkes, Baron Foulkes of Cumnock",spouse,Q75450427,
+Q16191157,Alex Rowley,child,Q30163628,
+Q1680794,Jamie McGrigor,child,Q76062448,
+Q1680794,Jamie McGrigor,child,Q76062450,
+Q1680794,Jamie McGrigor,child,Q76062456,
+Q1680794,Jamie McGrigor,child,Q76062457,
+Q1680794,Jamie McGrigor,child,Q76280466,
+Q1680794,Jamie McGrigor,child,Q76288785,
+Q1680794,Jamie McGrigor,father,Q75908427,
+Q1680794,Jamie McGrigor,mother,Q75908426,
+Q1680794,Jamie McGrigor,spouse,Q76062447,
+Q1680794,Jamie McGrigor,spouse,Q76062455,
+Q1681420,Jamie Stone,child,Q76112453,
+Q1681420,Jamie Stone,child,Q76112454,
+Q1681420,Jamie Stone,child,Q76112455,
+Q1681420,Jamie Stone,father,Q76112451,
+Q1681420,Jamie Stone,spouse,Q75639056,
+Q16849685,James Wolffe,spouse,Q18163522,
+Q1685871,Jean Urquhart,spouse,Q1609787,
+Q1726790,Siobhan McMahon,father,Q2439870,
+Q24034308,Oliver Mundell,father,Q333520,
+Q24034376,Ruth Maguire,father,Q1495635,
+Q24034422,Alexander Burnett,child,Q75568027,
+Q24034422,Alexander Burnett,child,Q75651349,
+Q24034422,Alexander Burnett,child,Q75930772,
+Q24034422,Alexander Burnett,father,Q75326124,
+Q24034422,Alexander Burnett,mother,Q75393425,
+Q24034422,Alexander Burnett,sibling,Q75244927,
+Q24034422,Alexander Burnett,sibling,Q75244929,
+Q24034422,Alexander Burnett,spouse,Q75568025,
+Q24039768,Edward Mountain,child,Q76082478,
+Q24039768,Edward Mountain,child,Q76082479,
+Q24039768,Edward Mountain,child,Q76082481,
+Q24039768,Edward Mountain,father,Q75951876,
+Q24039768,Edward Mountain,mother,Q75951875,
+Q24039768,Edward Mountain,spouse,Q76082477,
+Q24045406,Alex Cole-Hamilton,father,Q18620305,
+Q24045406,Alex Cole-Hamilton,mother,Q75659202,
+Q24052673,Donald Cameron,child,Q76098710,
+Q24052673,Donald Cameron,child,Q76098712,
+Q24052673,Donald Cameron,child,Q76259879,
+Q24052673,Donald Cameron,father,Q75331710,
+Q24052673,Donald Cameron,mother,Q75331715,
+Q24052673,Donald Cameron,sibling,Q75331718,
+Q24052673,Donald Cameron,sibling,Q75331719,
+Q24052673,Donald Cameron,sibling,Q75331721,
+Q24052673,Donald Cameron,spouse,Q75521466,
+Q2439870,Michael McMahon,child,Q1726790,
+Q333158,Donald Dewar,spouse,Q76057348,
+Q333520,David Mundell,child,Q24034308,
+Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390683,
+Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390685,
+Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390686,
+Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390688,
+Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",father,Q332941,
+Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",mother,Q5362691,
+Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",spouse,Q75390680,
+Q333847,David Steel,father,Q5240041,
+Q333847,David Steel,mother,Q76347545,
+Q333847,David Steel,spouse,Q76347546,
+Q333903,Margaret Ewing,spouse,Q559022,
+Q334015,Winnie Ewing,child,Q559022,
+Q334015,Winnie Ewing,child,Q564093,
+Q334376,Margo MacDonald,spouse,Q6198115,
+Q444675,Shona Robison,spouse,Q689514,
+Q467112,Nicola Sturgeon,mother,Q107359230,
+Q467112,Nicola Sturgeon,spouse,Q61819939,
+Q478812,Anas Sarwar,father,Q334072,
+Q505043,"Andrew Hardie, Baron Hardie",child,Q76063557,
+Q505043,"Andrew Hardie, Baron Hardie",child,Q76063640,
+Q505043,"Andrew Hardie, Baron Hardie",child,Q76073957,
+Q505043,"Andrew Hardie, Baron Hardie",father,Q76086177,
+Q505043,"Andrew Hardie, Baron Hardie",mother,Q76086178,
+Q505043,"Andrew Hardie, Baron Hardie",spouse,Q76054701,
+Q511689,Wendy Alexander,sibling,Q259106,
+Q559022,Fergus Ewing,mother,Q334015,
+Q559022,Fergus Ewing,sibling,Q564093,
+Q559022,Fergus Ewing,spouse,Q333903,
+Q559046,Alex Fergusson,child,Q75923921,
+Q559046,Alex Fergusson,child,Q75923925,
+Q559046,Alex Fergusson,child,Q75923927,
+Q559046,Alex Fergusson,father,Q75923912,
+Q559046,Alex Fergusson,mother,Q75923915,
+Q559046,Alex Fergusson,spouse,Q75923919,
+Q564093,Annabelle Ewing,mother,Q334015,
+Q564093,Annabelle Ewing,sibling,Q559022,
