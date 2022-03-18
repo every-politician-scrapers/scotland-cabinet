@@ -1,5 +1,4 @@
 {
-  "honorific-prefix": "The Right Honourable",
   "name": "Alison Johnstone",
   "honorific-suffix": "MSP PC",
   "image": "File:Alison Johnstone 2021.jpg",
@@ -19,7 +18,6 @@
   "term_start2": "May 2011",
   "term_end2": "May 2021",
   "predecessor2": "Office established",
-  "successor2": "TBD",
   "office3": "Member of the Scottish Parliament\nfor Lothian\n(1 of 7 Regional MSPs)",
   "term_start3": "5 May 2011",
   "birth_date": "October 11, 1965",
@@ -27,5 +25,6 @@
   "party": "Independent (since 2021)",
   "children": "1",
   "website": "Official website",
-  "otherparty": "Scottish Greens (until May 2021)"
+  "otherparty": "Scottish Greens (until May 2021)",
+  "honorific_prefix": "The Right Honourable"
 }
