@@ -1,4 +1,14 @@
 {
+  "embed": "yes",
+  "office3": "Member of the Scottish Parliament\nfor Dundee City East\nDundee East (2003–2011)",
+  "majority3": "10,898",
+  "term_start3": "1 May 2003",
+  "predecessor3": "John McAllion",
+  "office4": "Member of the Scottish Parliament\nfor North East Scotland\n(1 of 7 Regional MSPs)",
+  "term_start4": "6 May 1999",
+  "term_end4": "1 May 2003"
+}
+{
   "name": "Shona Robison",
   "honorific-suffix": "MSP",
   "image": "Cabinet_Secretary,_Shona_Robison,_2021.jpg",
@@ -13,18 +23,11 @@
   "predecessor1": "Office established",
   "successor1": "Alex Neil",
   "office2": "Cabinet Secretary for Health and Sport",
-  "predecessor2": "Alex Neil",
-  "succeeded2": "Jeane Freeman",
-  "termstart2": "21 November 2014",
-  "termend2": "26 June 2018",
   "firstminister2": "Nicola Sturgeon",
-  "office3": "Member of the Scottish Parliament\nfor Dundee City East\nDundee East (2003–2011)",
-  "majority3": "10,898",
-  "term_start3": "1 May 2003",
-  "predecessor3": "John McAllion",
-  "office4": "Member of the Scottish Parliament\nfor North East Scotland\n(1 of 7 Regional MSPs)",
-  "term_start4": "6 May 1999",
-  "term_end4": "1 May 2003",
+  "term_start2": "21 November 2014",
+  "term_end2": "26 June 2018",
+  "predecessor2": "Alex Neil",
+  "successor2": "Jeane Freeman",
   "birth_name": "Shona McRory Robison",
   "birth_date": "May 26, 1966",
   "birth_place": "Redcar, Yorkshire, England",
@@ -32,6 +35,5 @@
   "spouse": "Stewart Hosie (m. 1997-2017)",
   "children": "1 daughter",
   "alma_mater": "University of Glasgow\n\nJordanhill College",
-  "profession": "Community worker, home care organiser",
   "website": "http://shona.robison.scot"
 }
