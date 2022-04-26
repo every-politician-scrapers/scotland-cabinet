@@ -2,7 +2,6 @@
   "embed": "yes",
   "office3": "Member of the Scottish Parliament\nfor Dunfermline",
   "parliament3": "Scottish",
-  "majority3": "4,558",
   "term_start3": "5 May 2016",
   "predecessor3": "Cara Hilton",
   "office4": "Member of the Scottish Parliament\nfor Lothians\n(1 of 7 Regional MSPs)",
@@ -35,5 +34,6 @@
   "nationality": "Scottish",
   "party": "Scottish National Party",
   "children": "2",
-  "alma_mater": "Queen Margaret University\nUniversity of Strathclyde\nUniversity of Stirling"
+  "alma_mater": "Queen Margaret University\nUniversity of Strathclyde\nUniversity of Stirling",
+  "firstminister2": "Nicola Sturgeon"
 }
