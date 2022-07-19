@@ -1,0 +1,910 @@
+{
+  "title": "Michael Matheson (politician)",
+  "pageID": 903988,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Alumni of Queen Margaret University",
+    "Members of the Scottish Cabinet",
+    "Scottish National Party MSPs",
+    "Members of the Scottish Parliament 1999–2003",
+    "Members of the Scottish Parliament 2003–2007",
+    "Members of the Scottish Parliament 2007–2011",
+    "Members of the Scottish Parliament 2011–2016",
+    "Members of the Scottish Parliament 2016–2021",
+    "Members of the Scottish Parliament 2021–2026",
+    "Justice ministers of Scotland",
+    "Politicians from Glasgow",
+    "People associated with Falkirk (council area)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael Stephen Matheson (born 8 September 1970) is a Scottish politician serving as Cabinet Secretary for Net Zero, Energy and Transport since 2018.",
+              "links": [
+                {
+                  "text": "Scottish",
+                  "type": "internal",
+                  "page": "Scottish people"
+                },
+                {
+                  "text": "Cabinet Secretary for Net Zero, Energy and Transport",
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Transport, Infrastructure and Connectivity"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michael Stephen Matheson"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Scottish National Party (SNP), he has been a Member of the Scottish Parliament (MSP) since 1999, first representing the Central Scotland region and, since 2007, the Falkirk West constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scottish National Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of the Scottish Parliament"
+                },
+                {
+                  "text": "1999",
+                  "type": "internal",
+                  "page": "1999 Scottish Parliament election"
+                },
+                {
+                  "text": "Central Scotland",
+                  "type": "internal",
+                  "page": "Central Scotland (Scottish Parliament electoral region)"
+                },
+                {
+                  "text": "2007",
+                  "type": "internal",
+                  "page": "2007 Scottish Parliament election"
+                },
+                {
+                  "text": "Falkirk West",
+                  "type": "internal",
+                  "page": "Falkirk West (Scottish Parliament constituency)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He previously served as Cabinet Secretary for Justice from 2014 to 2018 and Minister for Public Health from 2011 to 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Justice"
+                },
+                {
+                  "text": "Minister for Public Health",
+                  "type": "internal",
+                  "page": "Minister for Public Health, Women's Health and Sport"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Scottish National Party politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "November 2019",
+          "template": "use british english"
+        },
+        {
+          "year": "1970",
+          "month": "09",
+          "day": "8",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Michael Matheson"
+          },
+          "honorific-suffix": {
+            "text": "MSP",
+            "links": [
+              {
+                "text": "MSP",
+                "type": "internal",
+                "page": "Member of the Scottish Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "Cabinet_Secretary,_Michael_Matheson.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2021"
+          },
+          "office": {
+            "text": "Cabinet Secretary for Net Zero, Energy and Transport",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet Secretary for Net Zero, Energy and Transport"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 June 2018"
+          },
+          "predecessor": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "firstminister": {
+            "text": "Nicola Sturgeon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Sturgeon"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Cabinet Secretary for Justice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet Secretary for Justice"
+              }
+            ]
+          },
+          "firstminister1": {
+            "text": "Nicola Sturgeon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Sturgeon"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 November 2014"
+          },
+          "term_end1": {
+            "text": "26 June 2018"
+          },
+          "predecessor1": {
+            "text": "Kenny MacAskill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenny MacAskill"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Humza Yousaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Humza Yousaf"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Public Health",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Public Health"
+              }
+            ]
+          },
+          "firstminister2": {
+            "text": "Alex Salmond",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alex Salmond"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "20 May 2011"
+          },
+          "term_end2": {
+            "text": "21 November 2014"
+          },
+          "predecessor2": {
+            "text": "Shona Robison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shona Robison"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Maureen Watt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maureen Watt"
+              }
+            ]
+          },
+          "constituency_mp3": {
+            "text": "Falkirk West",
+            "links": [
+              {
+                "text": "Falkirk West",
+                "type": "internal",
+                "page": "Falkirk West (Scottish Parliament constituency)"
+              }
+            ]
+          },
+          "parliament3": {
+            "text": "Scottish"
+          },
+          "majority3": {
+            "text": "11,280 (35.1%)"
+          },
+          "term_start3": {
+            "text": "3 May 2007"
+          },
+          "predecessor3": {
+            "text": "Dennis Canavan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dennis Canavan"
+              }
+            ]
+          },
+          "constituency_mp4": {
+            "text": "Central Scotland",
+            "links": [
+              {
+                "text": "Central Scotland",
+                "type": "internal",
+                "page": "Central Scotland (Scottish Parliament electoral region)"
+              }
+            ]
+          },
+          "parliament4": {
+            "text": "Scottish"
+          },
+          "term_start4": {
+            "text": "6 May 1999"
+          },
+          "term_end4": {
+            "text": "3 May 2007"
+          },
+          "birth_date": {
+            "text": "September 8, 1970"
+          },
+          "birth_place": {
+            "text": "Glasgow, Scotland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Glasgow"
+              }
+            ]
+          },
+          "party": {
+            "text": "Scottish National Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scottish National Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Queen Margaret University\nOpen University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Queen Margaret University"
+              },
+              {
+                "type": "internal",
+                "page": "Open University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Occupational therapist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Occupational therapist"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "list": [
+            "The office was known as Cabinet Secretary for Transport, Infrastructure and Connectivity from 2018 to 2021."
+          ],
+          "group": "n",
+          "template": "refn"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0
+    },
+    {
+      "title": "Birth and education",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael Stephen Matheson was born on 8 September 1970 in Glasgow.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Glasgow"
+                }
+              ]
+            },
+            {
+              "text": "He was raised in the Toryglen district and educated at John Bosco Secondary School in the city.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Toryglen"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Bosco Secondary School"
+                }
+              ]
+            },
+            {
+              "text": "He then attended Queen Margaret University where he graduated with a Bachelor of Science degree in occupational therapy in 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen Margaret University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Science"
+                },
+                {
+                  "text": "occupational therapy",
+                  "type": "internal",
+                  "page": "occupational therapy"
+                }
+              ]
+            },
+            {
+              "text": "He later went on to graduate from the Open University with both a Bachelor of Arts degree and a Postgraduate diploma in applied social sciences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Open University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "type": "internal",
+                  "page": "Postgraduate diploma"
+                },
+                {
+                  "text": "applied social sciences",
+                  "type": "internal",
+                  "page": "social sciences"
+                }
+              ]
+            },
+            {
+              "text": "Following graduation, he worked as a community occupational therapist for eight years, until his election to the Scottish Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scottish Parliament"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early political career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Matheson worked for Highland Regional Council, Central Regional Council and Stirling Council.",
+              "links": [
+                {
+                  "text": "Highland Regional Council",
+                  "type": "internal",
+                  "page": "Highland (council area)"
+                },
+                {
+                  "text": "Central Regional Council",
+                  "type": "internal",
+                  "page": "Central Region, Scotland"
+                },
+                {
+                  "text": "Stirling Council",
+                  "type": "internal",
+                  "page": "Stirling (council area)"
+                }
+              ]
+            },
+            {
+              "text": "He first stood as a parliamentary candidate for the SNP in the 1997 general election, standing for the newly created Hamilton North and Bellshill constituency.",
+              "links": [
+                {
+                  "text": "1997 general election",
+                  "type": "internal",
+                  "page": "1997 United Kingdom general election"
+                },
+                {
+                  "text": "Hamilton North and Bellshill",
+                  "type": "internal",
+                  "page": "Hamilton North and Bellshill (UK Parliament constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Member of the Scottish Parliament",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the 1999 Scottish parliamentary election, Matheson contested the Falkirk West constituency, which was won by the independent Dennis Canavan, who had been rejected by the Labour Party.",
+              "links": [
+                {
+                  "text": "1999 Scottish parliamentary election",
+                  "type": "internal",
+                  "page": "1999 Scottish Parliament election"
+                },
+                {
+                  "text": "Falkirk West",
+                  "type": "internal",
+                  "page": "Falkirk West (Scottish Parliament constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dennis Canavan"
+                },
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (UK)"
+                }
+              ]
+            },
+            {
+              "text": "However, Matheson was ranked third on the SNP's regional list for Central Scotland and was one of the five SNP candidates elected in the region.",
+              "links": [
+                {
+                  "text": "Central Scotland",
+                  "type": "internal",
+                  "page": "Central Scotland (Scottish Parliament electoral region)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served as Shadow Deputy Minister for Justice from May 1999 until September 2004, and as Shadow Deputy Minister for Rural Development from October 2001 until September 2004.",
+              "links": [
+                {
+                  "text": "Minister for Justice",
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Justice"
+                },
+                {
+                  "text": "Minister for Rural Development",
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Rural Affairs and the Environment"
+                }
+              ]
+            },
+            {
+              "text": "Matheson also served on the Equal Opportunities Committee, the Justice and Home Affairs Committee, and the Justice 1 Committee between 1999 and 2004."
+            },
+            {
+              "text": "During the 2000 SNP deputy leadership election, he was the campaign manager for Roseanna Cunningham.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roseanna Cunningham"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He contested the Falkirk West constituency again at the 2003 Scottish parliamentary election, and although it was won again by Denis Canavan, Matheson was re-elected as one of three SNP MSPs for Central Scotland.",
+              "links": [
+                {
+                  "text": "2003 Scottish parliamentary election",
+                  "type": "internal",
+                  "page": "2003 Scottish Parliament election"
+                }
+              ]
+            },
+            {
+              "text": "In the parliament's second session he served on the Justice 1 Committee, the Enterprise and Culture Committee and the Justice 2 Committee."
+            },
+            {
+              "text": "From September 2004 until September 2006, he was Shadow Minister for Culture and Sport.",
+              "links": [
+                {
+                  "text": "Culture and Sport",
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Culture, Europe and External Affairs"
+                }
+              ]
+            },
+            {
+              "text": "Matheson won the constituency in the 2007 election with a majority of 776 votes over Labour, after Canavan stepped down.",
+              "links": [
+                {
+                  "text": "2007 election",
+                  "type": "internal",
+                  "page": "2007 Scottish Parliament election"
+                }
+              ]
+            },
+            {
+              "text": "(Canavan later endorsed Matheson for re-election in 2011).",
+              "links": [
+                {
+                  "text": "2011",
+                  "type": "internal",
+                  "page": "2011 Scottish Parliament election"
+                }
+              ]
+            },
+            {
+              "text": "Matheson was a member of the Health and Sport Committee from June 2007 until March 2011 and was the Deputy Convener of the European and External Relations Committee from March 2009 until July 2010."
+            },
+            {
+              "text": "He was also a member of the End of Life Assistance (Scotland) Bill Committee."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before becoming a Minister, Matheson was actively involved in a number of Parliamentary Cross-Party Groups, including those on Malawi, Sport, Alzheimer's disease, International development, Russia and Taiwan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malawi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sport"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alzheimer's disease"
+                },
+                {
+                  "type": "internal",
+                  "page": "International development"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taiwan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the 2011 Scottish parliamentary election, he retained his seat with an increased majority of 5,745 votes over Labour.",
+              "links": [
+                {
+                  "text": "2011 Scottish parliamentary election",
+                  "type": "internal",
+                  "page": "2011 Scottish Parliament election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed as Minister for Public Health after the SNP landslide in 2011, a position he held until the November 2014 reshuffle which saw him promoted to cabinet rank as Cabinet Secretary for Justice.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for Public Health"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Justice"
+                }
+              ]
+            },
+            {
+              "text": "In a cabinet reshuffle in 2018, he was shifted to Cabinet Secretary for Transport, Infrastructure and Connectivity.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Transport, Infrastructure and Connectivity"
+                }
+              ]
+            },
+            {
+              "text": "In 2021, his portfolio changed, with infrastructure and connectivity being replaced with net zero and energy, becoming Cabinet Secretary for Net Zero, Energy and Transport.",
+              "links": [
+                {
+                  "text": "infrastructure",
+                  "type": "internal",
+                  "page": "infrastructure"
+                },
+                {
+                  "text": "energy",
+                  "type": "internal",
+                  "page": "energy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Net Zero, Energy and Transport"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Baden-Württemberg_Justice_and_European_Affairs_Minister_Guido_Wolf_and_Justice_Secretary_Michael_Matheson.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Baden-W%C3%BCrttemberg_Justice_and_European_Affairs_Minister_Guido_Wolf_and_Justice_Secretary_Michael_Matheson.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Baden-W%C3%BCrttemberg_Justice_and_European_Affairs_Minister_Guido_Wolf_and_Justice_Secretary_Michael_Matheson.jpg",
+          "caption": "Matheson and Baden-Württemberg Justice and European Affairs Minister Guido Wolf.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.scot/msps/31744.aspx",
+          "title": "Previous MSPs: Session 1 (1999–2003): Michael Matheson MSP",
+          "publisher": "Scottish Parliament",
+          "accessdate": "14 May 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.scot/msps/30616.aspx",
+          "title": "Previous MSPs: Session 2 (2003–2007): Michael Matheson MSP",
+          "publisher": "Scottish Parliament",
+          "accessdate": "14 May 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.heraldscotland.com/news/politics/the-canavan-endorsement-could-swing-it-again-for-confident-nationalists-1.1098792",
+          "title": "The Canavan endorsement could swing it again for confident Nationalists",
+          "work": "The Herald",
+          "date": "30 April 2011",
+          "accessdate": "30 April 2011",
+          "first": "Robin",
+          "last": "Dinwoodie",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.parliament.scot/msps/26613.aspx",
+          "title": "Previous MSPs: Session 3 (2007–2011): Michael Matheson MSP",
+          "publisher": "Scottish Parliament",
+          "accessdate": "14 May 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "group": "n",
+          "template": "reflist"
+        },
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "sp-msp"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "sct"
+          ],
+          "template": "s-par"
+        },
+        {
+          "list": [
+            "Parliament"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Member of the Scottish Parliament for Central Scotland",
+          "years": "1999–2007",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jamie Hepburn",
+          "template": "s-aft"
+        },
+        {
+          "before": "Dennis Canavan",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of the Scottish Parliament for Falkirk West",
+          "years": "2007–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Shona Robison",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Public Health",
+          "years": "2011–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Maureen Watt",
+          "template": "s-aft"
+        },
+        {
+          "before": "Kenny MacAskill",
+          "template": "s-bef"
+        },
+        {
+          "title": "Cabinet Secretary for Justice",
+          "years": "2014–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Humza Yousaf",
+          "template": "s-aft"
+        },
+        {
+          "template": "scottish cabinet"
+        },
+        {
+          "template": "centralscotland msps"
+        },
+        {
+          "template": "snp msps"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Michael Matheson MSP official constituency website",
+            "links": [
+              {
+                "text": "Michael Matheson MSP",
+                "type": "external",
+                "site": "http://michaelmatheson.org"
+              }
+            ]
+          },
+          {
+            "text": "Scottish National Party – Falkirk District",
+            "links": [
+              {
+                "text": "Scottish National Party – Falkirk District",
+                "type": "external",
+                "site": "http://snp-falkirk.co.uk"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Scottish National Party – Falkirk District",
+            "links": [
+              {
+                "text": "Scottish National Party – Falkirk District",
+                "type": "external",
+                "site": "http://snp-falkirk.co.uk"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
