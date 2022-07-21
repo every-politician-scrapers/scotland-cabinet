@@ -400,13 +400,13 @@
           "template": "notelist"
         },
         {
-          "template": "nicola sturgeon sidebar"
-        },
-        {
           "list": [
             "In the Brexit referendum, a majority of voters in every local authority area in Scotland voted to remain in 2016."
           ],
           "template": "efn"
+        },
+        {
+          "template": "nicola sturgeon sidebar"
         }
       ],
       "infoboxes": [
@@ -566,7 +566,7 @@
             ]
           },
           "image": {
-            "text": "File:Nicola Sturgeon 2021.jpg"
+            "text": "Nicola Sturgeon 2021.jpg"
           },
           "caption": {
             "text": "Official portrait, 2021"
@@ -851,8 +851,13 @@
               ]
             },
             {
-              "text": "She is the eldest of three daughters born to Joan Kerr Sturgeon (née Ferguson, born 1952), a dental nurse, and Robin Sturgeon (born 1948), an electrician.",
+              "text": "She is the eldest of three daughters born to Joan Kerr Sturgeon née Ferguson, born 23 October 1952 ), a dental nurse, and Robin Sturgeon (born 28 September 1948 ), an electrician.",
               "links": [
+                {
+                  "text": "née",
+                  "type": "internal",
+                  "page": "Birth name"
+                },
                 {
                   "text": "dental nurse",
                   "type": "internal",
@@ -866,7 +871,7 @@
               }
             },
             {
-              "text": "Her family has some roots in North East England; her paternal grandmother was from Ryhope in what is now the City of Sunderland.",
+              "text": "Her family has some roots in North East England; her paternal grandmother, Margaret Sturgeon (née Mill) was from Ryhope in what is now the City of Sunderland.",
               "links": [
                 {
                   "type": "internal",
@@ -880,14 +885,43 @@
                   "type": "internal",
                   "page": "City of Sunderland"
                 }
+              ],
+              "formatting": {
+                "italic": [
+                  "née"
+                ]
+              }
+            },
+            {
+              "text": "Her grandmother married Robert Sturgeon, a gardener from Ayr, at St Paul's Parish Church in 1943, and they both eventually moved back to the south west of Scotland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ayr"
+                },
+                {
+                  "text": "St Paul's Parish Church",
+                  "type": "internal",
+                  "page": "St. Paul's Parish Church"
+                }
               ]
             },
             {
-              "text": "She grew up in Prestwick and Dreghorn.",
+              "text": "Sturgeon grew up in Prestwick and a terraced council house, which her parents bought through the right-to-buy scheme, in the village of Dreghorn.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Prestwick"
+                },
+                {
+                  "text": "council house",
+                  "type": "internal",
+                  "page": "council house"
+                },
+                {
+                  "text": "right-to-buy scheme",
+                  "type": "internal",
+                  "page": "Right to Buy Scheme"
                 },
                 {
                   "type": "internal",
@@ -928,6 +962,25 @@
           "type": "news"
         },
         {
+          "orig-date": "23 Oct 2010",
+          "title": "Heading to my home town to wish my mum a happy birthday!!",
+          "url": "https://twitter.com/nicolasturgeon/status/28507271624",
+          "access-date": "2022-07-20",
+          "website": "Twitter",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Happy 65th birthday, dad @birdfish11",
+          "url": "https://twitter.com/nicolasturgeon/status/384067273578647552",
+          "access-date": "2022-07-20",
+          "website": "Twitter",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "template": "citation",
           "type": "inline",
           "data": {},
@@ -947,6 +1000,16 @@
           "df": "dmy-all",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "2020-04-08",
+          "title": "Gary Elliot: Nicola Sturgeon and I come from the same working class stock - trying to paint her as the 'new establishment' is laughable",
+          "url": "https://sourcenews.scot/gary-elliot-nicola-sturgeon-and-i-come-from-the-same-working-class-stock-trying-to-paint-her-as-the-new-establishment-is-laughable/",
+          "access-date": "2022-07-20",
+          "website": "Source",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -960,6 +1023,12 @@
               "text": "She attended Dreghorn Primary School from 1975 to 1982 and Greenwood Academy from 1982 to 1988.",
               "links": [
                 {
+                  "text": "Dreghorn Primary School",
+                  "type": "internal",
+                  "page": "Dreghorn",
+                  "anchor": "Employment"
+                },
+                {
                   "text": "Greenwood Academy",
                   "type": "internal",
                   "page": "Greenwood Academy, Dreghorn"
@@ -967,7 +1036,7 @@
               ]
             },
             {
-              "text": "She later studied law at the University of Glasgow, graduating with a Bachelor of Laws (Hons) in 1992 and a Diploma in Legal Practice the following year.",
+              "text": "She later studied law at the University of Glasgow School of Law, graduating with a Bachelor of Laws (Hons) in 1992 and a Diploma in Legal Practice the following year.",
               "links": [
                 {
                   "text": "law",
@@ -976,7 +1045,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "University of Glasgow"
+                  "page": "University of Glasgow School of Law"
                 },
                 {
                   "type": "internal",
@@ -993,6 +1062,10 @@
               "links": [
                 {
                   "type": "internal",
+                  "page": "University of Glasgow"
+                },
+                {
+                  "type": "internal",
                   "page": "Glasgow University Scottish Nationalist Association"
                 },
                 {
@@ -1006,7 +1079,7 @@
         {
           "sentences": [
             {
-              "text": "Following her graduation, Sturgeon completed her legal traineeship at McClure Naismith, a Glasgow firm of solicitors, in 1995.",
+              "text": "Following Sturgeon's graduation, Sturgeon completed her legal traineeship at McClure Naismith, a Glasgow firm of solicitors, in 1995.",
               "links": [
                 {
                   "type": "internal",
@@ -1015,7 +1088,7 @@
               ]
             },
             {
-              "text": "After qualifying as a solicitor, she worked for Bell & Craig, a firm of solicitors in Stirling, and later at the Drumchapel Law Centre in Glasgow from 1997 until her election to the Scottish Parliament in 1999.",
+              "text": "After qualifying as a solicitor, she worked for Bell & Craig, a firm of solicitors in Stirling, and later at the Drumchapel Law Centre in and a Money Advice Centre in Glasgow from 1997 until her election to the Scottish Parliament in 1999.",
               "links": [
                 {
                   "text": "solicitor",
@@ -1049,30 +1122,28 @@
       ],
       "references": [
         {
-          "url": "http://www.alba.org.uk/scot07constit/g04.html",
-          "title": "Candidates and Constituency Assessments",
-          "publisher": "Alba.org.uk",
-          "access-date": "17 January 2011",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20110606052650/http://www.alba.org.uk/scot07constit/g04.html",
-          "archive-date": "6 June 2011",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.com/news/uk-scotland-25333635",
-          "title": "The Nicola Sturgeon story",
           "last": "Sim",
           "first": "Philip",
           "date": "26 May 2017",
-          "work": "BBC News",
-          "access-date": "21 November 2017",
+          "title": "The Nicola Sturgeon story",
           "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-scotland-25333635",
           "url-status": "live",
+          "access-date": "21 November 2017",
           "archive-url": "https://web.archive.org/web/20170915002848/http://www.bbc.com/news/uk-scotland-25333635",
           "archive-date": "15 September 2017",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Biography: Nicola Sturgeon",
+          "url": "https://www.gov.scot/about/who-runs-government/first-minister/biography/",
+          "access-date": "2022-07-20",
+          "website": "www.gov.scot",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -1080,6 +1151,54 @@
       "title": "Early political years",
       "depth": 1,
       "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In her early teens, Sturgeon joined the Campaign for Nuclear Disarmament and in 1986, at the age of 16, she became a member of the Scottish National Party (SNP), quickly became the party's Youth Affairs Vice Convener and Publicity Vice Convener.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Campaign for Nuclear Disarmament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Scottish National Party"
+                }
+              ]
+            },
+            {
+              "text": "She joined the SNP following an assumption by her English teacher, who was a Labour councillor, she would be a Labour supporter."
+            },
+            {
+              "text": "In the 1987 UK General election, Sturgeon got her first taste of campaigning, going door-to-door to get her local SNP candidate, Kay Ullrich, elected to Westminster.Despite Ullrich failing to win the seat, Sturgeon ploughed her political energy to the Young Scottish Nationalists (now the Young Scots For Independence), joining its national executive when she was 17.",
+              "links": [
+                {
+                  "text": "1987 UK General election",
+                  "type": "internal",
+                  "page": "1987 United Kingdom general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kay Ullrich"
+                },
+                {
+                  "type": "internal",
+                  "page": "Westminster"
+                },
+                {
+                  "text": "Young Scottish Nationalists",
+                  "type": "internal",
+                  "page": "Scottish National Party"
+                },
+                {
+                  "text": "Young Scots For Independence",
+                  "type": "internal",
+                  "page": "Scottish National Party"
+                }
+              ]
+            }
+          ]
+        },
         {
           "sentences": [
             {
@@ -1099,43 +1218,44 @@
                   "Woman's Hour"
                 ]
               }
+            },
+            {
+              "text": "\"Thatcher was the motivation for my entire political career. I hated everything she stood for.\""
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Sturgeon joined the Scottish National Party (SNP) in 1986, having already become a member of the Campaign for Nuclear Disarmament, and quickly became the party's Youth Affairs Vice Convener and Publicity Vice Convener.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Scottish National Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Campaign for Nuclear Disarmament"
-                }
-              ]
-            },
+              "text": "- Nicola Sturgeon"
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "She first stood for election in the 1992 general election as the SNP candidate in the Glasgow Shettleston constituency, and was the youngest parliamentary candidate in Scotland, failing to win the seat.",
+              "text": "She became the youngest ever parliamentary candidate in Scotland in the 1992 general election.",
               "links": [
                 {
                   "text": "1992 general election",
                   "type": "internal",
                   "page": "1992 United Kingdom general election"
-                },
+                }
+              ]
+            },
+            {
+              "text": "Aged 21, Sturgeon was selected as the SNP candidate in the Glasgow Shettleston constituency.",
+              "links": [
                 {
                   "text": "Glasgow Shettleston",
                   "type": "internal",
                   "page": "Glasgow Shettleston (UK Parliament constituency)"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
+            {
+              "text": "She was unsuccessful, having been beaten by almost 15,000 votes by Labour."
+            },
             {
               "text": "Sturgeon also stood unsuccessfully as the SNP candidate for the Irvine North ward on Cunninghame District Council in May 1992, for the Baillieston/Mount Vernon ward on Strathclyde Regional Council in 1994, and for the Bridgeton ward on Glasgow City Council in 1995.",
               "links": [
@@ -1244,52 +1364,69 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Nicola_Sturgeon_1999.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon_1999.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon_1999.jpg",
+          "caption": "Official parliamentary portrait, 1999",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "text": "Thatcher was the motivation for my entire political career. I hated everything she stood for.",
+          "author": "Nicola Sturgeon",
+          "title": "Sturgeon's views on Margaret Thatcher",
+          "template": "quote"
+        }
+      ],
       "references": [
         {
-          "url": "https://www.bbc.com/news/uk-scotland-25333635",
-          "title": "The Nicola Sturgeon story",
+          "date": "5 April 2014",
+          "title": "Sturgeon: \"Now or never\" to banish Trident",
+          "url": "http://www.snp.org/media-centre/news/2014/apr/sturgeon-now-or-never-banish-trident",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140708202748/http://www.snp.org/media-centre/news/2014/apr/sturgeon-now-or-never-banish-trident",
+          "archive-date": "8 July 2014",
+          "access-date": "6 July 2014",
+          "publisher": "Scottish National Party",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "About: Nicola Sturgeon MSP",
+          "url": "http://www.snp.org/nicola_sturgeon_fm",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160715123308/http://www.snp.org/nicola_sturgeon_fm",
+          "archive-date": "15 July 2016",
+          "access-date": "2 July 2016",
+          "publisher": "Scottish National Party",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "last": "Sim",
           "first": "Philip",
           "date": "26 May 2017",
-          "work": "BBC News",
-          "access-date": "14 September 2017",
+          "title": "The Nicola Sturgeon story",
           "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-scotland-25333635",
           "url-status": "live",
+          "access-date": "14 September 2017",
           "archive-url": "https://web.archive.org/web/20170915002848/http://www.bbc.com/news/uk-scotland-25333635",
           "archive-date": "15 September 2017",
           "template": "citation",
           "type": "news"
         },
         {
-          "url": "http://www.snp.org/media-centre/news/2014/apr/sturgeon-now-or-never-banish-trident",
-          "title": "Sturgeon: \"Now or never\" to banish Trident",
-          "date": "5 April 2014",
-          "access-date": "6 July 2014",
-          "publisher": "Scottish National Party",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20140708202748/http://www.snp.org/media-centre/news/2014/apr/sturgeon-now-or-never-banish-trident",
-          "archive-date": "8 July 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.snp.org/nicola_sturgeon_fm",
-          "title": "About: Nicola Sturgeon MSP",
-          "publisher": "Scottish National Party",
-          "access-date": "2 July 2016",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20160715123308/http://www.snp.org/nicola_sturgeon_fm",
-          "archive-date": "15 July 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/uk-scotland-32975311",
+          "date": "2 June 2015",
           "title": "Sturgeon on Charles Kennedy 'a most talented politician'",
           "work": "BBC News",
-          "date": "2 June 2015",
-          "access-date": "4 June 2015",
+          "url": "https://www.bbc.co.uk/news/uk-scotland-32975311",
           "url-status": "live",
+          "access-date": "4 June 2015",
           "archive-url": "https://web.archive.org/web/20150602110544/http://www.bbc.co.uk/news/uk-scotland-32975311",
           "archive-date": "2 June 2015",
           "template": "citation",
@@ -1298,24 +1435,34 @@
         {
           "last1": "Dathan",
           "first1": "Matt",
-          "title": "Nicola Sturgeon reveals how she and Charles Kennedy watched Trainspotting together as she pays tribute to former Lib Dem leader",
-          "url": "https://www.independent.co.uk/news/uk/politics/nicola-sturgeon-reveals-how-she-and-charles-kennedy-watched-trainspotting-together-as-she-pays-tribute-to-former-lib-dem-leader-10292645.html",
-          "website": "independent.co.uk",
           "date": "2 June 2015",
-          "access-date": "4 June 2015",
+          "title": "Nicola Sturgeon reveals how she and Charles Kennedy watched Trainspotting together as she pays tribute to former Lib Dem leader",
+          "website": "independent.co.uk",
+          "url": "https://www.independent.co.uk/news/uk/politics/nicola-sturgeon-reveals-how-she-and-charles-kennedy-watched-trainspotting-together-as-she-pays-tribute-to-former-lib-dem-leader-10292645.html",
           "url-status": "live",
+          "access-date": "4 June 2015",
           "archive-url": "https://web.archive.org/web/20150603075431/http://www.independent.co.uk/news/uk/politics/nicola-sturgeon-reveals-how-she-and-charles-kennedy-watched-trainspotting-together-as-she-pays-tribute-to-former-lib-dem-leader-10292645.html",
           "archive-date": "3 June 2015",
           "template": "citation",
           "type": "news"
         },
         {
-          "url": "https://www.bbc.co.uk/news/special/politics97/news/05/0505/stats.shtml",
           "title": "BBC Politics 97",
-          "access-date": "19 November 2014",
+          "url": "https://www.bbc.co.uk/news/special/politics97/news/05/0505/stats.shtml",
           "url-status": "live",
           "archive-url": "https://web.archive.org/web/20150324034533/http://www.bbc.co.uk/news/special/politics97/news/05/0505/stats.shtml",
           "archive-date": "24 March 2015",
+          "access-date": "19 November 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-10-04",
+          "title": "Profile: Nicola Sturgeon spoke to Mandy Rhodes about her miscarriage",
+          "url": "https://www.holyrood.com/inside-politics/view,profile-nicola-sturgeon-spoke-to-mandy-rhodes-about-her-miscarriage_12315.htm",
+          "access-date": "2022-07-20",
+          "website": "Holyrood Website",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
@@ -1331,7 +1478,11 @@
     },
     {
       "title": "Early parliamentary career",
-      "depth": 0,
+      "depth": 0
+    },
+    {
+      "title": "SNP in opposition",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -1369,35 +1520,40 @@
               ]
             },
             {
-              "text": "During the first term of the Scottish Parliament, Sturgeon served as a member of the Shadow Cabinets of both Alex Salmond and John Swinney.",
+              "text": "The SNP emerged as the second largest party and sat in opposition to the Labour-Lib Dem coalition.",
               "links": [
                 {
-                  "text": "Shadow Cabinets",
+                  "text": "opposition",
                   "type": "internal",
-                  "page": "Shadow Cabinet"
+                  "page": "Opposition Shadow Cabinets of the Scottish Parliament"
                 },
                 {
+                  "text": "Labour-Lib Dem coalition",
                   "type": "internal",
-                  "page": "Alex Salmond"
-                },
-                {
-                  "type": "internal",
-                  "page": "John Swinney"
+                  "page": "Dewar government"
                 }
               ]
             },
             {
-              "text": "She was Shadow Minister for Children and Education from 1999 to 2000.",
+              "text": "In Alex Salmond's shadow cabinet, she served as Shadow Minister for Children and Education from 1999 to 2000.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Alex Salmond"
+                },
                 {
                   "text": "Shadow Minister for Children and Education",
                   "type": "internal",
                   "page": "Cabinet Secretary for Education and Lifelong Learning"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "In the role she backed Labour's efforts to repeal Section 28 – a law that banned the promotion of homosexuality in schools."
+              "text": "As Shadow Education minister, Sturgeon backed Labour's efforts to repeal Section 28 – a law that banned the promotion of homosexuality in schools."
             },
             {
               "text": "There was however significant public opposition to repeal and an unscientific postal vote on the issue – organised by SNP donor Brian Souter – suggested most Scots wanted to keep the clause.",
@@ -1444,6 +1600,15 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Nicola_Sturgeon_2003.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon_2003.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon_2003.jpg",
+          "caption": "Sturgeon speaking to the Scottish Parliament in a debate, 2003",
+          "links": []
+        }
+      ],
       "references": [
         {
           "url": "https://www.britannica.com/biography/Nicola-Sturgeon",
@@ -1482,7 +1647,7 @@
       ]
     },
     {
-      "title": "Depute Leader and Leader of the Opposition",
+      "title": "2004 SNP leadership election",
       "depth": 1,
       "paragraphs": [
         {
@@ -1526,11 +1691,7 @@
                   "page": "Iain Macwhirter"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "However, once Cunningham emerged as the favourite to win, Salmond announced that his intention to stand for the leadership; Sturgeon subsequently withdrew from the contest and declared her support for Salmond, standing instead as his running mate for the depute leadership."
             },
@@ -1570,58 +1731,30 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "As leader of the SNP in the Scottish Parliament, Sturgeon became a high-profile figure in Scottish politics and often clashed with First Minister Jack McConnell at First Minister's Questions.",
-              "links": [
-                {
-                  "text": "First Minister",
-                  "type": "internal",
-                  "page": "First Minister of Scotland"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jack McConnell"
-                },
-                {
-                  "text": "First Minister's Questions",
-                  "type": "internal",
-                  "page": "First Minister's Questions (Scottish Parliament)"
-                }
-              ]
-            },
-            {
-              "text": "This included rows over the House of Commons' decision to replace the Trident nuclear weapon system, and the SNP's plans to replace council tax in Scotland with a local income tax.",
-              "links": [
-                {
-                  "text": "House of Commons'",
-                  "type": "internal",
-                  "page": "British House of Commons"
-                },
-                {
-                  "text": "council tax",
-                  "type": "internal",
-                  "page": "council tax"
-                },
-                {
-                  "text": "local income tax",
-                  "type": "internal",
-                  "page": "local income tax"
-                }
-              ]
-            }
-          ]
         }
       ],
       "images": [
         {
-          "file": "File:Nicola_Sturgeon,_DFM_in_Fort_William.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon%2C_DFM_in_Fort_William.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon%2C_DFM_in_Fort_William.jpg",
-          "caption": "Sturgeon as Deputy First Minister speaking in Fort William, 2011",
+          "file": "File:Sturgeon_and_Salmond's_2004_leadership_election_logo.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Sturgeon_and_Salmond's_2004_leadership_election_logo.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Sturgeon_and_Salmond's_2004_leadership_election_logo.jpg",
+          "caption": "Salmond-Sturgeon campaign logo in the 2004 SNP leadership contest",
           "links": []
+        },
+        {
+          "file": "File:Nicola_Sturgeon_2004.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon_2004.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon_2004.jpg",
+          "caption": "Official parliamentary portrait, 2004",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2004 Scottish National Party leadership election"
+          ],
+          "template": "see also"
         }
       ],
       "references": [
@@ -1702,18 +1835,6 @@
           "type": "news"
         },
         {
-          "date": "15 March 2007",
-          "title": "Parties clash on Trident and tax",
-          "work": "BBC News",
-          "url": "http://news.bbc.co.uk/1/hi/scotland/6454509.stm",
-          "url-status": "live",
-          "access-date": "17 January 2011",
-          "archive-url": "https://web.archive.org/web/20070319190615/http://news.bbc.co.uk/1/hi/scotland/6454509.stm",
-          "archive-date": "19 March 2007",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "last": "Jack",
           "first": "Ian",
           "work": "The Guardian",
@@ -1729,7 +1850,95 @@
       ]
     },
     {
-      "title": "Deputy First Minister of Scotland",
+      "title": "Leader of the Opposition; 2004–2007",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "As leader of the SNP in the Scottish Parliament, she served as the Leader of the Opposition in Holyrood.",
+              "links": [
+                {
+                  "text": "Leader of the Opposition in Holyrood",
+                  "type": "internal",
+                  "page": "Leader of the Opposition (Scotland)"
+                }
+              ]
+            },
+            {
+              "text": "Sturgeon became a high-profile figure in Scottish politics and often clashed with First Minister Jack McConnell at First Minister's Questions.",
+              "links": [
+                {
+                  "text": "First Minister",
+                  "type": "internal",
+                  "page": "First Minister of Scotland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jack McConnell"
+                },
+                {
+                  "text": "First Minister's Questions",
+                  "type": "internal",
+                  "page": "First Minister's Questions (Scottish Parliament)"
+                }
+              ]
+            },
+            {
+              "text": "This included rows over the House of Commons' decision to replace the Trident nuclear weapon system, and the SNP's plans to replace council tax in Scotland with a local income tax.",
+              "links": [
+                {
+                  "text": "House of Commons'",
+                  "type": "internal",
+                  "page": "British House of Commons"
+                },
+                {
+                  "text": "council tax",
+                  "type": "internal",
+                  "page": "council tax"
+                },
+                {
+                  "text": "local income tax",
+                  "type": "internal",
+                  "page": "local income tax"
+                }
+              ]
+            },
+            {
+              "text": "Sturgeon quickly grew a reputation in Holyrood as opposition leader, becoming known as \"nippy sweetie\" – Scottish slang for the \"sharp-tongued and strong-minded\"."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "15 March 2007",
+          "title": "Parties clash on Trident and tax",
+          "work": "BBC News",
+          "url": "http://news.bbc.co.uk/1/hi/scotland/6454509.stm",
+          "url-status": "live",
+          "access-date": "17 January 2011",
+          "archive-url": "https://web.archive.org/web/20070319190615/http://news.bbc.co.uk/1/hi/scotland/6454509.stm",
+          "archive-date": "19 March 2007",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Ritchie",
+          "first": "Meabh",
+          "date": "2014-09-24",
+          "title": "Rise of Nicola Sturgeon: from ‘nippy sweetie’ to SNP leader?",
+          "url": "https://www.channel4.com/news/sturgeon-snp-scotland-independence-campaign",
+          "access-date": "2022-07-20",
+          "website": "Channel 4 News",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Deputy First Minister of Scotland; 2007–2014",
       "depth": 0,
       "paragraphs": [
         {
@@ -1965,6 +2174,13 @@
         }
       ],
       "images": [
+        {
+          "file": "File:Nicola_Sturgeon,_DFM_in_Fort_William.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon%2C_DFM_in_Fort_William.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nicola_Sturgeon%2C_DFM_in_Fort_William.jpg",
+          "caption": "Sturgeon as Deputy First Minister speaking in Fort William, 2011",
+          "links": []
+        },
         {
           "file": "File:Deputy_First_Minister_Nicola_Sturgeon_MSP.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Deputy_First_Minister_Nicola_Sturgeon_MSP.jpg?width=300",
