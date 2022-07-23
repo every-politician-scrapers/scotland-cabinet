@@ -1927,7 +1927,7 @@
           "last": "Ritchie",
           "first": "Meabh",
           "date": "2014-09-24",
-          "title": "Rise of Nicola Sturgeon: from ‘nippy sweetie’ to SNP leader?",
+          "title": "Rise of Nicola Sturgeon: from 'nippy sweetie' to SNP leader?",
           "url": "https://www.channel4.com/news/sturgeon-snp-scotland-independence-campaign",
           "access-date": "2022-07-20",
           "website": "Channel 4 News",
@@ -4688,13 +4688,15 @@
         {
           "url": "https://www.randoxtestingservices.com/proposed-cuts-on-funding-for-drug-and-alcohol-rehabilitation-in-scotland/",
           "title": "Proposed cuts on funding for drug and alcohol rehabilitation in Scotland",
+          "newspaper": "Randox Testing Services",
           "date": "12 February 2016",
           "access-date": "4 August 2021",
           "archive-date": "4 August 2021",
           "archive-url": "https://web.archive.org/web/20210804045028/https://www.randoxtestingservices.com/proposed-cuts-on-funding-for-drug-and-alcohol-rehabilitation-in-scotland/",
           "url-status": "live",
+          "author1": "Randoxtestingservices",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.bbc.com/news/uk-scotland-40935150",

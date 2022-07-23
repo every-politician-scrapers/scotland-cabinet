@@ -166,7 +166,7 @@
       ],
       "templates": [
         {
-          "description": "Scottish lawyer (born 1964)",
+          "description": "Lord Advocate",
           "template": "short description"
         },
         {
@@ -265,6 +265,9 @@
               }
             ]
           },
+          "birthname": {
+            "text": "Dorothy Ruth Bain"
+          },
           "spouse": {
             "text": "Lord Turnbull",
             "links": [
@@ -276,7 +279,13 @@
             ]
           },
           "party": {
-            "text": "None"
+            "text": "Independent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Independent"
+              }
+            ]
           },
           "alma_mater": {
             "text": "University of Aberdeen",
@@ -436,13 +445,23 @@
                   "page": "Faculty of Advocates"
                 }
               ]
+            },
+            {
+              "text": "She worked in civil practice from 1994 until 2002.",
+              "links": [
+                {
+                  "text": "civil practice",
+                  "type": "internal",
+                  "page": "Civil Practice Law and Rules"
+                }
+              ]
             }
           ]
         }
       ]
     },
     {
-      "title": "Advocate Depute",
+      "title": "Advocate Depute; 2002 to 2009",
       "depth": 1,
       "paragraphs": [
         {
@@ -461,16 +480,25 @@
               ]
             },
             {
-              "text": "In 2008, she was commissioned by the Lord Advocate and Solicitor General to report on and make recommendations on the prosecution of sex crimes in Scotland, the outcome of which led to the formation of Scotland's National Sexual Crimes Unit.",
+              "text": "In 2008, she was commissioned by the Lord Advocate, Elish Angiolini, and the Solicitor General, Frank Muholland, to report on and make recommendations on the prosecution of sex crimes in Scotland, the outcome of which led to the formation of Scotland's National Sexual Crimes Unit.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Lord Advocate"
                 },
                 {
+                  "type": "internal",
+                  "page": "Elish Angiolini"
+                },
+                {
                   "text": "Solicitor General",
                   "type": "internal",
                   "page": "Solicitor General for Scotland"
+                },
+                {
+                  "text": "Frank Muholland",
+                  "type": "internal",
+                  "page": "Frank Mulholland, Lord Mulholland"
                 }
               ]
             }
@@ -487,22 +515,39 @@
       ]
     },
     {
-      "title": "Principal Advocate Depute",
-      "depth": 2,
+      "title": "Principal Advocate Depute; 2009 to 2011",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "In 2009, she became the first and highest-ranking female to hold the prosecutorial position in Scotland, as Principal Advocate Depute."
+              "text": "In June 2009, Bain became the first and highest-ranking female to hold the prosecutorial position in Scotland, as Principal Advocate Depute.",
+              "links": [
+                {
+                  "text": "Principal Advocate Depute",
+                  "type": "internal",
+                  "page": "Advocate-Depute"
+                }
+              ]
             },
             {
-              "text": "She became known for her prosecution of high-profile cases such as the serial killer Peter Tobin, as well the prosecution of four members of a drug gang for murder, and a wide-ranging 2009 child pornography case.",
+              "text": "She became known for her prosecution of high-profile cases such as the serial killer Peter Tobin, the Operation Algebra case which resulted in the conviction of (then) the largest paedophile ring in the UK, as well the prosecution of four members of a drug gang for murder, and a wide-ranging 2009 child pornography case.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Peter Tobin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Operation Algebra"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Operation Algebra",
+                  ","
+                ]
+              }
             }
           ]
         },
@@ -564,6 +609,16 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "last": "McSherry",
+          "first": "Mark",
+          "title": "Dorothy Bain to be Scotland’s new Lord Advocate – Scottish Financial Review",
+          "url": "https://scottishfinancialreview.com/2021/06/16/dorothy-bain-to-be-scotlands-new-lord-advocate/",
+          "access-date": "2022-07-22",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -599,6 +654,9 @@
                   "page": "High Court of Justiciary"
                 }
               ]
+            },
+            {
+              "text": "She was Counsel to the Investigatory Powers Tribunal in Scotland and Chair of the Police Appeals Tribunal."
             }
           ]
         }
@@ -615,6 +673,15 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "title": "Prosecutor who secured conviction against Peter Tobin to be Scotland's Lord Advocate",
+          "url": "https://www.scotsman.com/news/politics/scotlands-new-lord-advocate-is-announced-3274878",
+          "access-date": "2022-07-22",
+          "website": "www.scotsman.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -771,6 +838,38 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bain is married to Alan Turnbull, Lord Turnbull, a Scottish judge in the Court of Session’s Inner House.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alan Turnbull, Lord Turnbull"
+                },
+                {
+                  "text": "judge",
+                  "type": "internal",
+                  "page": "judge"
+                },
+                {
+                  "type": "internal",
+                  "page": "Court of Session"
+                },
+                {
+                  "type": "internal",
+                  "page": "Inner House"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
