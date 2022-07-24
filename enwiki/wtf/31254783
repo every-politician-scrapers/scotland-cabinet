@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Dorothy Ruth Bain QC (born 1964) is a Scottish advocate who has served as Lord Advocate since 2021.",
+              "text": "Dorothy Ruth Bain, Lady Turnbull QC (born 1964) is a Scottish advocate who has served as Lord Advocate since 2021.",
               "links": [
                 {
                   "text": "QC",
@@ -43,7 +43,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Dorothy Ruth Bain"
+                  "Dorothy Ruth Bain, Lady Turnbull"
                 ]
               }
             },
@@ -186,7 +186,7 @@
             ]
           },
           "name": {
-            "text": "Dorothy Bain"
+            "text": "Dorothy Bain, Lady Turnbull"
           },
           "honorific-suffix": {
             "text": "QC",
