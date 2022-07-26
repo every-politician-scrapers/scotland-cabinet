@@ -1059,7 +1059,13 @@
     },
     {
       "title": "Political views",
-      "depth": 0
+      "depth": 0,
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "empty section"
+        }
+      ]
     },
     {
       "title": "Personal life",
