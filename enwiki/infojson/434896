@@ -1,0 +1,148 @@
+[
+  {
+    "office": {
+      "links": [
+        "Scottish National Party",
+        "Ministry of Defence (United Kingdom)"
+      ],
+      "stated_as": "SNP Spokesperson for Defence"
+    },
+    "P580": "2001-05-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2015-03-30",
+    "P1366": {
+      "links": [
+        "Brendan O'Hara"
+      ],
+      "stated_as": "Brendan O'Hara"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Scottish National Party",
+        "Foreign and Commonwealth Office"
+      ],
+      "stated_as": "SNP Spokesperson for Foreign and Commonwealth Affairs"
+    },
+    "P580": "2001-05-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2015-03-30",
+    "P1366": {
+      "links": [
+        "Alex Salmond"
+      ],
+      "stated_as": "Alex Salmond (International Affairs and Europe)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (United Kingdom)",
+        "Moray (UK Parliament constituency)"
+      ],
+      "stated_as": "Member of Parliament\nfor Moray"
+    },
+    "P580": "2001-06-07",
+    "P1365": {
+      "links": [
+        "Margaret Ewing"
+      ],
+      "stated_as": "Margaret Ewing"
+    },
+    "P582": "2017-05-03",
+    "P1366": {
+      "links": [
+        "Douglas Ross (Scottish politician)"
+      ],
+      "stated_as": "Douglas Ross"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Scottish National Party",
+        "House of Commons of the United Kingdom"
+      ],
+      "stated_as": "Leader of the Scottish National Party in the House of Commons"
+    },
+    "P580": "2007-05-23",
+    "P1365": {
+      "links": [
+        "Alex Salmond"
+      ],
+      "stated_as": "Alex Salmond"
+    },
+    "P582": "2017-05-03",
+    "P1366": {
+      "links": [
+        "Ian Blackford"
+      ],
+      "stated_as": "Ian Blackford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Scottish National Party"
+      ],
+      "stated_as": "Depute Leader of the Scottish National Party"
+    },
+    "P580": "2016-10-13",
+    "P1365": {
+      "links": [
+        "Stewart Hosie"
+      ],
+      "stated_as": "Stewart Hosie"
+    },
+    "P582": "2018-02-03",
+    "P1366": {
+      "links": [
+        "Keith Brown (Scottish politician)"
+      ],
+      "stated_as": "Keith Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Scottish Parliament",
+        "Edinburgh Central (Scottish Parliament constituency)"
+      ],
+      "stated_as": "Member of the Scottish Parliament\nfor Edinburgh Central"
+    },
+    "P580": "2021-05-07",
+    "P1365": {
+      "links": [
+        "Ruth Davidson"
+      ],
+      "stated_as": "Ruth Davidson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for the Constitution, External Affairs and Culture"
+      ],
+      "stated_as": "Cabinet Secretary for the Constitution, External Affairs and Culture"
+    },
+    "P580": "2021-05-20",
+    "P1365": {
+      "links": [
+        "Michael Russell (Scottish politician)",
+        "Fiona Hyslop"
+      ],
+      "stated_as": "Mike Russell (Constitution and External Affairs)\nFiona Hyslop (Culture)"
+    }
+  }
+]

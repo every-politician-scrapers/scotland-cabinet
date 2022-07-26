@@ -1,0 +1,78 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (United Kingdom)",
+        "Airdrie and Shotts (UK Parliament constituency)"
+      ],
+      "stated_as": "Member of Parliament\nfor Airdrie and Shotts"
+    },
+    "P580": "2015-05-07",
+    "P1365": {
+      "links": [
+        "Pamela Nash"
+      ],
+      "stated_as": "Pamela Nash"
+    },
+    "P582": "2021-03-24",
+    "P1366": {
+      "links": [
+        "Anum Qaisar"
+      ],
+      "stated_as": "Anum Qaisar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Frontbench Team of Ian Blackford"
+      ],
+      "stated_as": "SNP Spokesperson for Work and Pensions"
+    },
+    "P580": "2015-09-30",
+    "P1365": {
+      "links": [
+        "Hannah Bardell"
+      ],
+      "stated_as": "Hannah Bardell"
+    },
+    "P582": "2021-02-01",
+    "P1366": {
+      "links": [
+        "David Linden (politician)"
+      ],
+      "stated_as": "David Linden"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Scottish Parliament",
+        "Airdrie and Shotts (Scottish Parliament constituency)"
+      ],
+      "stated_as": "Member of the Scottish Parliament\nfor Airdrie and Shotts"
+    },
+    "P580": "2021-05-07",
+    "P1365": {
+      "links": [
+        "Alex Neil (politician)"
+      ],
+      "stated_as": "Alex Neil"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Culture, Europe and International Development"
+      ],
+      "stated_as": "Minister for Culture, Europe and International Development"
+    },
+    "P580": "2022-01-24",
+    "P1365": {
+      "links": [
+        "Jenny Gilruth"
+      ],
+      "stated_as": "Jenny Gilruth"
+    }
+  }
+]

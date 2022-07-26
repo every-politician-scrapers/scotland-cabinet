@@ -1,0 +1,138 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Scottish Parliament",
+        "Clackmannanshire and Dunblane (Scottish Parliament constituency)",
+        "Ochil (Scottish Parliament constituency)"
+      ],
+      "stated_as": "Member of the Scottish Parliament\nfor Clackmannanshire and Dunblane\nOchil (2007–11)"
+    },
+    "P580": "2007-05-03",
+    "P1365": {
+      "links": [
+        "George Reid (Scottish politician)"
+      ],
+      "stated_as": "George Reid"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Skills and Lifelong Learning"
+      ],
+      "stated_as": "Minister for Skills and Lifelong Learning"
+    },
+    "P580": "2009-02-12",
+    "P1365": {
+      "links": [
+        "Maureen Watt"
+      ],
+      "stated_as": "Maureen Watt"
+    },
+    "P582": "2010-12-12",
+    "P1366": {
+      "links": [
+        "Angela Constance"
+      ],
+      "stated_as": "Angela Constance"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Transport and Veterans",
+        "Transport Scotland"
+      ],
+      "stated_as": "Minister for the Department for Transport"
+    },
+    "P580": "2010-12-11",
+    "P1365": {
+      "links": [
+        "Stewart Stevenson"
+      ],
+      "stated_as": "Stewart Stevenson"
+    },
+    "P582": "2014-11-21",
+    "P1366": {
+      "links": [
+        "Derek Mackay"
+      ],
+      "stated_as": "Derek Mackay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Infrastructure, Investment and Cities"
+      ],
+      "stated_as": "Cabinet Secretary for Infrastructure, Investment and Cities"
+    },
+    "P580": "2014-11-21",
+    "P1365": {
+      "links": [
+        "Nicola Sturgeon"
+      ],
+      "stated_as": "Nicola Sturgeon"
+    },
+    "P582": "2016-05-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Economy, Jobs and Fair Work"
+      ],
+      "stated_as": "Cabinet Secretary for Economy, Jobs and Fair Work"
+    },
+    "P580": "2016-05-18",
+    "P1365": {
+      "links": [
+        "John Swinney"
+      ],
+      "stated_as": "John Swinney (Economy)"
+    },
+    "P582": "2018-06-26",
+    "P1366": {
+      "links": [
+        "Derek Mackay"
+      ],
+      "stated_as": "Derek Mackay (Finance, Economy and Fair Work)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Scottish National Party"
+      ],
+      "stated_as": "Depute Leader of the Scottish National Party"
+    },
+    "P580": "2018-06-08",
+    "P1365": {
+      "links": [
+        "Angus Robertson"
+      ],
+      "stated_as": "Angus Robertson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Justice and Veterans"
+      ],
+      "stated_as": "Cabinet Secretary for Justice and Veterans"
+    },
+    "P580": "2021-05-20",
+    "P1365": {
+      "links": [
+        "Humza Yousaf"
+      ],
+      "stated_as": "Humza Yousaf"
+    }
+  }
+]
