@@ -1,0 +1,159 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (United Kingdom)",
+        "Tayside North (UK Parliament constituency)"
+      ],
+      "stated_as": "Member of Parliament\nfor Tayside North"
+    },
+    "P580": "1997-05-01",
+    "P1365": {
+      "links": [
+        "Bill Walker (Scottish Conservative politician)"
+      ],
+      "stated_as": "Bill Walker"
+    },
+    "P582": "2001-05-14",
+    "P1366": {
+      "links": [
+        "Pete Wishart"
+      ],
+      "stated_as": "Pete Wishart"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Scottish National Party"
+      ],
+      "stated_as": "Depute Leader of the Scottish National Party"
+    },
+    "P580": "1998-08-25",
+    "P1365": {
+      "links": [
+        "Allan Macartney"
+      ],
+      "stated_as": "Allan Macartney"
+    },
+    "P582": "2000-09-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Roseanna Cunningham"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Scottish Parliament",
+        "Perthshire North (Scottish Parliament constituency)"
+      ],
+      "stated_as": "Member of the Scottish Parliament\nfor Perthshire North\n\nNorth Tayside (1999–2011)"
+    },
+    "P580": "1999-05-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Scottish National Party"
+      ],
+      "stated_as": "Leader of the Scottish National Party"
+    },
+    "P580": "2000-09-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alex Salmond"
+    },
+    "P582": "2004-09-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Alex Salmond"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Finance, Constitution and Economy"
+      ],
+      "stated_as": "Cabinet Secretary for Finance, Constitution and Economy"
+    },
+    "P580": "2007-05-17",
+    "P1365": {
+      "links": [
+        "Tom McCabe"
+      ],
+      "stated_as": "Tom McCabe"
+    },
+    "P582": "2016-05-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Derek Mackay\n\nKeith Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy First Minister of Scotland"
+      ],
+      "stated_as": "Deputy First Minister of Scotland"
+    },
+    "P580": "2014-11-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nicola Sturgeon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Education and Skills"
+      ],
+      "stated_as": "Cabinet Secretary for Education and Skills"
+    },
+    "P580": "2016-05-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Angela Constance\n\nRoseanna Cunningham"
+    },
+    "P582": "2021-05-20",
+    "P1366": {
+      "links": [
+        "Shirley-Anne Somerville"
+      ],
+      "stated_as": "Shirley-Anne Somerville"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Covid Recovery"
+      ],
+      "stated_as": "Cabinet Secretary for Covid Recovery"
+    },
+    "P580": "2021-05-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  }
+]

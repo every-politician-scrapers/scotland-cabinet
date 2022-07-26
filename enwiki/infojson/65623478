@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Advocate General for Scotland"
+      ],
+      "stated_as": "Advocate General for Scotland"
+    },
+    "P580": "2020-10-15",
+    "P1365": {
+      "links": [
+        "Richard Keen, Baron Keen of Elie"
+      ],
+      "stated_as": "The Lord Keen of Elie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the House of Lords",
+        "Lord Temporal"
+      ],
+      "stated_as": "Member of the House of Lords Lord Temporal"
+    },
+    "P580": "2020-11-09"
+  }
+]

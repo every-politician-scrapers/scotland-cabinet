@@ -1,0 +1,100 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Scottish Parliament",
+        "Lothians (Scottish Parliament electoral region)"
+      ],
+      "stated_as": "Member of the Scottish Parliament\nfor Lothians\n(1 of 7 Regional MSPs)"
+    },
+    "P580": "2007-08-31",
+    "P1365": {
+      "links": [
+        "Stefan Tymkewycz"
+      ],
+      "stated_as": "Stefan Tymkewycz"
+    },
+    "P582": "2011-03-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency Abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Scottish Parliament",
+        "Dunfermline (Scottish Parliament constituency)"
+      ],
+      "stated_as": "Member of the Scottish Parliament\nfor Dunfermline"
+    },
+    "P580": "2016-05-05",
+    "P1365": {
+      "links": [
+        "Cara Hilton"
+      ],
+      "stated_as": "Cara Hilton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Further Education, Higher Education and Science"
+      ],
+      "stated_as": "Minister for Further Education, Higher Education and Science"
+    },
+    "P580": "2016-05-18",
+    "P1365": {
+      "links": [
+        "Alasdair Allan"
+      ],
+      "stated_as": "Alasdair Allan"
+    },
+    "P582": "2018-06-26",
+    "P1366": {
+      "links": [
+        "Richard Lochhead"
+      ],
+      "stated_as": "Richard Lochhead"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Social Security and Older People"
+      ],
+      "stated_as": "Cabinet Secretary for Social Security and Older People"
+    },
+    "P580": "2018-06-26",
+    "P1365": {
+      "links": [
+        "Jeane Freeman"
+      ],
+      "stated_as": "Jeane Freeman"
+    },
+    "P582": "2021-05-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Education and Skills"
+      ],
+      "stated_as": "Cabinet Secretary for Education and Skills"
+    },
+    "P580": "2021-05-20",
+    "P1365": {
+      "links": [
+        "John Swinney"
+      ],
+      "stated_as": "John Swinney"
+    }
+  }
+]

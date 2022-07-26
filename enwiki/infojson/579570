@@ -1,0 +1,121 @@
+[
+  {
+    "office": {
+      "links": [
+        "Scottish National Party"
+      ],
+      "stated_as": "Depute Leader of the Scottish National Party"
+    },
+    "P580": "2004-09-03",
+    "P1365": {
+      "links": [
+        "Roseanna Cunningham"
+      ],
+      "stated_as": "Roseanna Cunningham"
+    },
+    "P582": "2014-11-14",
+    "P1366": {
+      "links": [
+        "Stewart Hosie"
+      ],
+      "stated_as": "Stewart Hosie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Health and Wellbeing"
+      ],
+      "stated_as": "Cabinet Secretary for Health and Wellbeing"
+    },
+    "P580": "2007-05-17",
+    "P1365": {
+      "links": [
+        "Andy Kerr (Scottish politician)"
+      ],
+      "stated_as": "Andy Kerr"
+    },
+    "P582": "2012-09-05",
+    "P1366": {
+      "links": [
+        "Alex Neil (politician)"
+      ],
+      "stated_as": "Alex Neil"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy First Minister of Scotland"
+      ],
+      "stated_as": "Deputy First Minister of Scotland"
+    },
+    "P580": "2007-05-17",
+    "P1365": {
+      "links": [
+        "Nicol Stephen, Baron Stephen"
+      ],
+      "stated_as": "Nicol Stephen"
+    },
+    "P582": "2014-11-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "John Swinney"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet Secretary for Infrastructure, Capital Investment and Cities"
+      ],
+      "stated_as": "Cabinet Secretary for Infrastructure, Capital Investment and Cities"
+    },
+    "P580": "2012-09-05",
+    "P1365": {
+      "links": [
+        "Alex Neil (politician)"
+      ],
+      "stated_as": "Alex Neil"
+    },
+    "P582": "2014-11-19",
+    "P1366": {
+      "links": [
+        "Keith Brown (Scottish politician)"
+      ],
+      "stated_as": "Keith Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Scottish National Party"
+      ],
+      "stated_as": "Leader of the Scottish National Party"
+    },
+    "P580": "2014-11-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alex Salmond"
+    },
+    "P582": "2007-05-03"
+  },
+  {
+    "office": {
+      "links": [
+        "First Minister of Scotland"
+      ],
+      "stated_as": "First Minister of Scotland"
+    },
+    "P580": "2014-11-20",
+    "P1365": {
+      "links": [
+        "Alex Salmond"
+      ],
+      "stated_as": "Alex Salmond"
+    }
+  }
+]
