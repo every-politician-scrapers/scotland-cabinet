@@ -160,6 +160,20 @@
             },
             {
               "text": "It is the first time both positions have been held by women at the same time."
+            },
+            {
+              "text": "In October 2022, she will argue the Scottish Government's case to hold a second referendum on Scottish Independence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scottish Government"
+                },
+                {
+                  "text": "second referendum on Scottish Independence",
+                  "type": "internal",
+                  "page": "Proposed second Scottish independence referendum"
+                }
+              ]
             }
           ]
         }
@@ -335,6 +349,16 @@
         }
       ],
       "references": [
+        {
+          "date": "2022-07-22",
+          "title": "Scotland's top lawyer publishes indyref argument to Supreme Court",
+          "url": "https://news.stv.tv/politics/indyref-scotlands-top-lawyer-dorothy-bain-publishes-independence-argument-to-supreme-court",
+          "access-date": "2022-07-26",
+          "website": "STV News",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "url": "http://www.advocates.org.uk/advocates/dorothy-ruth-bain",
           "title": "Dorothy Ruth Bain",
@@ -717,28 +741,42 @@
               ]
             },
             {
-              "text": "Her appointment as Lord Advocate was approved by the Scottish Parliament on 17 June 2021."
+              "text": "Her appointment as Lord Advocate was approved by the Scottish Parliament the following day."
             },
             {
-              "text": "She was sworn into office at the Court of Session on 22 June 2021.",
+              "text": "She was sworn into office at the Court of Session, alongside Ruth Charteris QC as Solicitor General, on 22 June.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Court of Session"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ruth Charteris"
+                },
+                {
+                  "text": "QC",
+                  "type": "internal",
+                  "page": "Queen's Counsel"
+                },
+                {
+                  "text": "Solicitor General",
+                  "type": "internal",
+                  "page": "Solicitor General for Scotland"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Bain was appointed to the Privy Council on 10 November 2021.",
+              "text": "On 10 November, she was appointed to the Privy Council earning the title 'The Right Honourable'.",
               "links": [
                 {
                   "text": "Privy Council",
                   "type": "internal",
                   "page": "Privy Council of the United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Right Honourable"
                 }
               ]
             }
@@ -760,6 +798,17 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "last": "Merson",
+          "first": "Adele",
+          "title": "Dorothy Bain QC nominated Scotland's new Lord Advocate",
+          "url": "https://www.thecourier.co.uk/fp/politics/scottish-politics/2312131/dorothy-bain-qc-nominated-scotlands-new-lord-advocate/",
+          "access-date": "2022-07-26",
+          "website": "The Courier",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
         },
         {
           "template": "citation",
@@ -838,6 +887,409 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Drug policy",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In September 2021, Bain made a statement to Parliament over a \"radical\" reform of the drug policy in Scotland, branded “de facto decriminalisation”, in an effort to tackle the country's drug crisis."
+            },
+            {
+              "text": "In July 2021, the National Record of Scotland reported a 5% increase in drug-related deaths in 2020.",
+              "links": [
+                {
+                  "text": "National Record of Scotland",
+                  "type": "internal",
+                  "page": "National Records of Scotland"
+                }
+              ]
+            },
+            {
+              "text": "The new policy announced would mean people caught with Class A drugs will be offered a police warning instead of being referred to prosecutors.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Class A drugs"
+                }
+              ]
+            },
+            {
+              "text": "This will extend the existing law for the possession of Class B and Class C drugs.",
+              "links": [
+                {
+                  "text": "Class B",
+                  "type": "internal",
+                  "page": "Class b drugs"
+                },
+                {
+                  "text": "Class C drugs",
+                  "type": "internal",
+                  "page": "Class c drugs"
+                }
+              ]
+            },
+            {
+              "text": "Bain told MSPs: “I have considered the review and I have decided that an extension of the recorded police warning guidelines to include possession offences for Class A drugs is appropriate."
+            },
+            {
+              "text": "Police officers may therefore choose to issue a recorded police warning for simple possession offences for all classes of drugs.”"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many opposition parties argued against the law change, highlighting cities across Scotland, including Dundee, where \"communities are devastated by the failures of the ‘war on drugs’ approach”. Others criticised the policy change should have been debated by the Parliament. The Scottish Conservatives' justice spokesman, Jamie Greene, insisted “nothing that has been said today will stop drug deaths” and the only way to tackle Scotland’s drug deaths crisis is to “improve access to treatment and rehabilitation, not to dilute how seriously we treat possession of deadly drugs like heroin, crystal meth and crack cocaine.”",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dundee"
+                },
+                {
+                  "type": "internal",
+                  "page": "Scottish Conservatives"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jamie Greene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2021, Bain told the Scottish Parliament's justice committee, she would consider a “precise and specific” proposal for a drugs consumption rooms in Scotland.",
+              "links": [
+                {
+                  "text": "Scottish Parliament's justice committee",
+                  "type": "internal",
+                  "page": "Committees of the Scottish Parliament"
+                }
+              ]
+            },
+            {
+              "text": "Her predecessor, James Wolffe, ruled out the idea of consumption rooms where drug users could take illegal substances in supervised conditions.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "James Wolffe"
+                }
+              ]
+            },
+            {
+              "text": "Bain told the committee: “The potential offences which may be committed in any particular consumption facility will depend on the individual scheme envisaged, the policies and processes within the individual scheme, and the actual behaviours of both the operators and the users."
+            },
+            {
+              "text": "And so the Lord Advocate couldn't actually, as a matter of law, whether through policy, or otherwise, decriminalise conduct which was by law criminal."
+            },
+            {
+              "text": "Nor could immunity from prosecution be granted in advance.\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Scotland Steps Towards Reform {{!}} Lord Advocate Announces New Approach to Class A Drugs in Scotland",
+          "url": "https://transformdrugs.org/blog/scotland-steps-towards-reform",
+          "access-date": "2022-07-26",
+          "website": "Transform",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Scots carrying Class A drugs may be given 'warning' in radical new policing plans",
+          "url": "https://www.thenational.scot/news/19597828.lord-advocate-dorothy-bain-says-scots-class-drugs-can-given-warning/",
+          "access-date": "2022-07-26",
+          "website": "The National",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lord Advocate statement on Diversion from Prosecution",
+          "url": "https://www.copfs.gov.uk/about-copfs/news/lord-advocate-statement-on-diversion-from-prosecution/",
+          "access-date": "2022-07-26",
+          "website": "COPFS",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lord Advocate's drug change is good step, now we need a big leap",
+          "url": "https://www.glasgowtimes.co.uk/news/19603767.lord-advocates-drug-change-good-step-now-need-leap/",
+          "access-date": "2022-07-26",
+          "website": "Glasgow Times",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Healey",
+          "first": "Derek",
+          "title": "'De facto decriminalisation': People caught with Class A drugs to be offered police warning rather than prosecution",
+          "url": "https://www.thecourier.co.uk/fp/politics/scottish-politics/2596676/class-a-drug-users-to-be-offered-police-warning-rather-than-prosecution-in-major-justice-shake-up/",
+          "access-date": "2022-07-26",
+          "website": "The Courier",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Hutcheon",
+          "first": "Paul",
+          "date": "2021-11-03",
+          "title": "Lord Advocate suggests fresh look at drug consumption rooms in Scotland",
+          "url": "https://www.dailyrecord.co.uk/news/politics/lord-advocate-suggests-fresh-look-25367167",
+          "access-date": "2022-07-26",
+          "website": "Daily Record",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Proposed referendum on Scottish Independence",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In June 2022, the First Minister launched her government's campaign to hold a second referendum on Scottish Independence.",
+              "links": [
+                {
+                  "text": "hold a second referendum",
+                  "type": "internal",
+                  "page": "Proposed second Scottish independence referendum"
+                },
+                {
+                  "text": "Scottish Independence",
+                  "type": "internal",
+                  "page": "Scottish independence"
+                }
+              ]
+            },
+            {
+              "text": "In the negotiations for the 2014 Scottish Independence referendum, the UK Government granted the powers for the Scottish Government to hold a referendum.",
+              "links": [
+                {
+                  "text": "2014 Scottish Independence referendum",
+                  "type": "internal",
+                  "page": "2014 Scottish independence referendum"
+                },
+                {
+                  "text": "granted the powers",
+                  "type": "internal",
+                  "page": "Edinburgh Agreement (2012)"
+                }
+              ]
+            },
+            {
+              "text": "However, the current UK administration has blocked Nicola Sturgeon's proposal for another referendum.",
+              "links": [
+                {
+                  "text": "current UK administration",
+                  "type": "internal",
+                  "page": "Second Johnson ministry"
+                }
+              ]
+            },
+            {
+              "text": "The following month, Sturgeon announced the referendum would be held on 19 October, 2023 and sought the Prime Minister to consent to the vote by signing a section 30 order, a move that Downing Street has refused to comply."
+            },
+            {
+              "text": "In response, Sturgeon asked Bain to consider referring the matter to the Supreme Court of the United Kingdom to rule if the Government has the power to host a referendum without the Government of the United Kingdom's approval, this request has since been granted.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of the United Kingdom"
+                },
+                {
+                  "text": "Government of the United Kingdom's",
+                  "type": "internal",
+                  "page": "Government of the United Kingdom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bain advised the Government that holding a referendum, without a Section 30 order from Westminster, would be \"likely be unlawful\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Section 30"
+                },
+                {
+                  "type": "internal",
+                  "page": "Westminster"
+                }
+              ]
+            },
+            {
+              "text": "She wrote to the Supreme Court to rule whether Holyrood has the legal powers to hold a referendum without the UK Government’s approval."
+            },
+            {
+              "text": "Michael Keating, a political scientist, suggested Bain had doubts about the legality of the referendum and in order to keep her political neutrality, she sought to ask the court for a ruling.",
+              "links": [
+                {
+                  "text": "Michael Keating",
+                  "type": "internal",
+                  "page": "Michael Keating (political scientist)"
+                },
+                {
+                  "text": "political scientist",
+                  "type": "internal",
+                  "page": "Political science"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 July 2022, Bain published the legal argument for a second referendum."
+            },
+            {
+              "text": "She will go before judges at the Supreme Court in October 2022, where she will argue the case for a referendum."
+            },
+            {
+              "text": "Bain emphasised holding a referendum itself was \"advisory\" and would have no legal impact on the future of the union and argued it would be inappropriate for the court to \"speculate\" on what actions the Government would take after a referendum."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-06-14",
+          "title": "Scotland's leader starts a campaign for a new independence vote",
+          "language": "en",
+          "work": "NPR",
+          "agency": "Associated Press",
+          "url": "https://www.npr.org/2022/06/14/1104882937/scotlands-leader-starts-a-campaign-for-a-new-independence-vote",
+          "access-date": "2022-06-15",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-06-14",
+          "title": "Sturgeon plots alternative route to Scottish independence vote next year",
+          "url": "https://www.theguardian.com/politics/2022/jun/14/sturgeon-plots-alternative-route-to-scottish-independence-vote-next-year",
+          "access-date": "2022-06-15",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-06-14",
+          "title": "Boris Johnson Rejects Nicola Sturgeon's Call For A Second Independence Referendum",
+          "url": "https://www.huffingtonpost.co.uk/entry/boris-johnson-rules-out-indyref2_uk_62a86121e4b0cdccbe552ebe",
+          "access-date": "2022-06-15",
+          "website": "HuffPost UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-06-28",
+          "title": "Scottish independence: 19 October 2023 proposed as date for referendum",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-scotland-scotland-politics-61968607",
+          "access-date": "2022-06-29",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-07-05",
+          "title": "Lord Advocate lacks 'necessary confidence' on legality of indyref2",
+          "url": "https://news.stv.tv/politics/lord-advocate-lacks-necessary-confidence-on-legality-of-scottish-independence-vote-plans",
+          "access-date": "2022-07-26",
+          "website": "STV News",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-05",
+          "title": "Independence vote may be ‘unlawful’, says Scotland’s lord advocate",
+          "url": "https://www.theguardian.com/uk-news/2022/jul/05/independence-vote-may-be-unlawful-says-scotlands-lord-advocate",
+          "access-date": "2022-07-26",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lord Advocate’s Written Case: whether the question for a referendum on Scottish Independence contained in the proposed referendum Bill relates to reserved matters",
+          "url": "http://www.gov.scot/publications/reference-to-the-supreme-court-publication-of-the-lord-advocates-written-case/",
+          "access-date": "2022-07-26",
+          "website": "www.gov.scot",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-22",
+          "title": "Lord Advocate publishes indyref2 legal argument to Supreme Court",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-scotland-scotland-politics-62271069",
+          "access-date": "2022-07-26",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Scottish Government plans for indyref2 to lead to independence 'not legally relevant' on referendum question, argues Lord Advocate",
+          "url": "https://www.scotsman.com/news/politics/scottish-government-plans-for-indyref2-to-lead-to-independence-not-legally-relevant-on-referendum-question-argues-lord-advocate-3779063",
+          "access-date": "2022-07-26",
+          "website": "www.scotsman.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Maidment",
+          "first1": "Jack",
+          "last2": "Penna",
+          "first2": "Dominic",
+          "date": "2022-06-28",
+          "title": "Nicola Sturgeon takes Indyref2 to Supreme Court as Scotland will 'not be prisoner of Boris Johnson'",
+          "language": "en-GB",
+          "work": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/politics/2022/06/28/boris-johnson-news-g7-northern-ireland-protocol-nicola-sturgeon/",
+          "access-date": "2022-06-29",
+          "issn": "0307-1235",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Maidment",
+          "first1": "Jack",
+          "last2": "Penna",
+          "first2": "Dominic",
+          "date": "2022-06-28",
+          "title": "Nicola Sturgeon takes Indyref2 to Supreme Court as Scotland will 'not be prisoner of Boris Johnson'",
+          "language": "en-GB",
+          "work": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/politics/2022/06/28/boris-johnson-news-g7-northern-ireland-protocol-nicola-sturgeon/",
+          "access-date": "2022-06-29",
+          "issn": "0307-1235",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },

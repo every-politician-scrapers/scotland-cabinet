@@ -52,7 +52,7 @@
       ],
       "templates": [
         {
-          "description": "Scottish lawyer (born 1973)",
+          "description": "Solicitor General for Scotland",
           "template": "short description"
         },
         {
@@ -248,28 +248,44 @@
         {
           "sentences": [
             {
-              "text": "Charteris was admitted as an advocate in 2000, then a Queen's Counsel (QC) in 2020.",
+              "text": "Charteris was admitted as an advocate in 2000 and came to the Bar on completion of her post as Legal Assistant to the Lord President of the Court of Session.",
               "links": [
                 {
                   "text": "admitted as an advocate",
                   "type": "internal",
                   "page": "Faculty of Advocates"
-                },
-                {
-                  "type": "internal",
-                  "page": "Queen's Counsel"
                 }
               ]
             },
             {
-              "text": "She has served as an Advocate Depute since October 2020, having been an Ad hoc Advocate Depute between 2010 and 2016."
+              "text": "Charteris served as an ad hoc Advocate Depute from 2010 to 2016.",
+              "links": [
+                {
+                  "text": "''ad hoc''",
+                  "type": "internal",
+                  "page": "Ad hoc"
+                },
+                {
+                  "text": "Advocate Depute",
+                  "type": "internal",
+                  "page": "Advocate-Depute"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "ad hoc"
+                ]
+              }
             },
             {
-              "text": "Charteris has been a legally qualified chair of the Scottish Social Services Council since 2017.",
+              "text": "She served as a Standing Junior to the Scottish Government from 2012 and Second Standing Junior to the Scottish Government from 2016 to 2020."
+            },
+            {
+              "text": "After her appointment to the Queen's Counsel s, she served as a full-time Advocate Depute from 2020 until her appointment as Solicitor General.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Scottish Social Services Council"
+                  "page": "Queen's Counsel"
                 }
               ]
             }
@@ -278,14 +294,11 @@
         {
           "sentences": [
             {
-              "text": "Charteris served as the Legal Assistant to the Lord President."
-            },
-            {
-              "text": "She was an ad hoc Advocate Depute from 2010 to 2016 and has been a Standing Junior to the Scottish Government since 2012.",
+              "text": "Charteris has been a legally qualified chair of the Scottish Social Services Council since 2017.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Scottish Government"
+                  "page": "Scottish Social Services Council"
                 }
               ]
             },
@@ -297,10 +310,30 @@
       ],
       "references": [
         {
+          "title": "Ruth Charteris QC",
+          "url": "https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/ruth-charteris-qc/",
+          "access-date": "2022-07-26",
+          "website": "www.gov.scot",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "template": "citation",
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "last": "Merson",
+          "first": "Adele",
+          "title": "Dorothy Bain QC nominated Scotland's new Lord Advocate",
+          "url": "https://www.thecourier.co.uk/fp/politics/scottish-politics/2312131/dorothy-bain-qc-nominated-scotlands-new-lord-advocate/",
+          "access-date": "2022-07-26",
+          "website": "The Courier",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
         },
         {
           "template": "citation",
