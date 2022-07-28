@@ -604,6 +604,43 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2011, following the promotion of Frank Mulholland QC as Lord Advocate, Bain was seen as a likely contender to succeed Mulholland as Solicitor General.",
+              "links": [
+                {
+                  "text": "Frank Mulholland",
+                  "type": "internal",
+                  "page": "Frank Mulholland, Lord Mulholland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lord Advocate"
+                },
+                {
+                  "text": "Solicitor General",
+                  "type": "internal",
+                  "page": "Solicitor General for Scotland"
+                }
+              ]
+            },
+            {
+              "text": "However, she was not nominated by Alex Salmond and the office was given to Lesley Thomson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alex Salmond"
+                },
+                {
+                  "text": "Lesley Thomson",
+                  "type": "internal",
+                  "page": "Lesley Thomson (lawyer)"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -641,6 +678,28 @@
           "url": "https://scottishfinancialreview.com/2021/06/16/dorothy-bain-to-be-scotlands-new-lord-advocate/",
           "access-date": "2022-07-22",
           "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Gilbride",
+          "first": "Paul",
+          "date": "2011-05-19",
+          "title": "‘Hard nut’ who is now Scotland’s legal chief",
+          "url": "https://www.express.co.uk/news/uk/247613/Hard-nut-who-is-now-Scotland-s-legal-chief",
+          "access-date": "2022-07-27",
+          "website": "Express.co.uk",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2011-05-19",
+          "title": "Expert prosecutor named as the new chief of Scotland's legal system",
+          "url": "https://www.scotsman.com/news/expert-prosecutor-named-new-chief-scotlands-legal-system-1676748",
+          "access-date": "2022-07-27",
+          "website": "www.scotsman.com",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }
@@ -785,10 +844,10 @@
       ],
       "images": [
         {
-          "file": "File:Dorothy_Bain_QC_and_Ruth_Charteris_with_Nicola_Sturgeon.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dorothy_Bain_QC_and_Ruth_Charteris_with_Nicola_Sturgeon.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dorothy_Bain_QC_and_Ruth_Charteris_with_Nicola_Sturgeon.jpg",
-          "caption": "229x229px",
+          "file": "File:Ruth_Charteris_and_Dorothy_Bain_at_Court_of_Session.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Ruth_Charteris_and_Dorothy_Bain_at_Court_of_Session.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Ruth_Charteris_and_Dorothy_Bain_at_Court_of_Session.jpg",
+          "caption": "Bain alongside Ruth Charteris QC, following their appointment as Scotland's law officers at the Court of Session, June 2021",
           "links": []
         }
       ],
@@ -937,14 +996,7 @@
               "text": "Bain told MSPs: “I have considered the review and I have decided that an extension of the recorded police warning guidelines to include possession offences for Class A drugs is appropriate."
             },
             {
-              "text": "Police officers may therefore choose to issue a recorded police warning for simple possession offences for all classes of drugs.”"
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Many opposition parties argued against the law change, highlighting cities across Scotland, including Dundee, where \"communities are devastated by the failures of the ‘war on drugs’ approach”. Others criticised the policy change should have been debated by the Parliament. The Scottish Conservatives' justice spokesman, Jamie Greene, insisted “nothing that has been said today will stop drug deaths” and the only way to tackle Scotland’s drug deaths crisis is to “improve access to treatment and rehabilitation, not to dilute how seriously we treat possession of deadly drugs like heroin, crystal meth and crack cocaine.”",
+              "text": "Police officers may therefore choose to issue a recorded police warning for simple possession offences for all classes of drugs.” Many opposition parties argued against the law change, highlighting cities across Scotland, including Dundee, where \"communities are devastated by the failures of the ‘war on drugs’ approach”. Others criticised the policy change should have been debated by the Parliament. The Scottish Conservatives' justice spokesman, Jamie Greene, insisted “nothing that has been said today will stop drug deaths” and the only way to tackle Scotland’s drug deaths crisis is to “improve access to treatment and rehabilitation, not to dilute how seriously we treat possession of deadly drugs like heroin, crystal meth and crack cocaine.”",
               "links": [
                 {
                   "type": "internal",
@@ -993,6 +1045,15 @@
               "text": "Nor could immunity from prosecution be granted in advance.\""
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Dorothy_Bain_QC_and_Ruth_Charteris_with_Nicola_Sturgeon.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dorothy_Bain_QC_and_Ruth_Charteris_with_Nicola_Sturgeon.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dorothy_Bain_QC_and_Ruth_Charteris_with_Nicola_Sturgeon.jpg",
+          "caption": "229x229px",
+          "links": []
         }
       ],
       "references": [
@@ -1125,7 +1186,7 @@
         {
           "sentences": [
             {
-              "text": "Bain advised the Government that holding a referendum, without a Section 30 order from Westminster, would be \"likely be unlawful\".",
+              "text": "Bain advised the Government that holding a referendum, without a Section 30 order from Westminster, would \"likely be unlawful\".",
               "links": [
                 {
                   "type": "internal",
@@ -1322,6 +1383,28 @@
               ]
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Andrews",
+          "first": "Kieran",
+          "title": "Husband of lord advocate nominee Dorothy Bain to step aside from criminal judge role",
+          "language": "en",
+          "url": "https://www.thetimes.co.uk/article/husband-of-lord-advocate-nominee-dorothy-bain-to-step-aside-from-criminal-judge-role-hlb0sjk6m",
+          "access-date": "2022-07-27",
+          "issn": "0140-0460",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Lord Turnbull to stand aside from criminal hearings upon appointment of Lord Advocate",
+          "url": "https://www.scottishlegal.com/articles/lord-turnbull-to-stand-aside-from-criminal-hearings-upon-appointment-of-lord-advocate",
+          "access-date": "2022-07-27",
+          "website": "Scottish Legal News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
