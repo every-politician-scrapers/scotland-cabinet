@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Dorothy Ruth Bain QC (born 1964) is a Scottish advocate who has served as Lord Advocate since 2021.",
+              "text": "Dorothy Ruth Bain, Lady Turnbull QC (born 1964) is a Scottish advocate who has served as Lord Advocate since 2021.",
               "links": [
                 {
                   "text": "QC",
@@ -43,7 +43,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Dorothy Ruth Bain"
+                  "Dorothy Ruth Bain, Lady Turnbull"
                 ]
               }
             },
@@ -209,7 +209,7 @@
             ]
           },
           "name": {
-            "text": "Dorothy Bain"
+            "text": "Dorothy Bain, Lady Turnbull"
           },
           "honorific-suffix": {
             "text": "QC",
@@ -365,6 +365,9 @@
           "access-date": "2022-07-26",
           "website": "STV News",
           "language": "en-GB",
+          "archive-date": "28 July 2022",
+          "archive-url": "https://web.archive.org/web/20220728232610/https://news.stv.tv/politics/indyref-scotlands-top-lawyer-dorothy-bain-publishes-independence-argument-to-supreme-court",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -374,6 +377,9 @@
           "website": "Faculty of Advocates",
           "language": "en-GB",
           "access-date": "2019-04-22",
+          "archive-date": "22 April 2019",
+          "archive-url": "https://web.archive.org/web/20190422193237/http://www.advocates.org.uk/advocates/dorothy-ruth-bain",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -382,6 +388,9 @@
           "url": "https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/dorothy-bain-qc/",
           "access-date": "2021-07-14",
           "website": "www.gov.scot",
+          "archive-date": "14 July 2021",
+          "archive-url": "https://web.archive.org/web/20210714174415/https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/dorothy-bain-qc/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -447,6 +456,9 @@
           "access-date": "2022-04-20",
           "website": "Holyrood Website",
           "language": "en",
+          "archive-date": "12 March 2022",
+          "archive-url": "https://web.archive.org/web/20220312232849/https://www.holyrood.com/inside-politics/view,a-fresh-approach-an-interview-with-lord-advocate-dorothy-bain-qc",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -687,6 +699,9 @@
           "url": "https://scottishfinancialreview.com/2021/06/16/dorothy-bain-to-be-scotlands-new-lord-advocate/",
           "access-date": "2022-07-22",
           "language": "en-GB",
+          "archive-date": "5 August 2021",
+          "archive-url": "https://web.archive.org/web/20210805181833/https://scottishfinancialreview.com/2021/06/16/dorothy-bain-to-be-scotlands-new-lord-advocate/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -699,6 +714,9 @@
           "access-date": "2022-07-27",
           "website": "Express.co.uk",
           "language": "en",
+          "archive-date": "27 July 2022",
+          "archive-url": "https://web.archive.org/web/20220727134725/https://www.express.co.uk/news/uk/247613/Hard-nut-who-is-now-Scotland-s-legal-chief",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -709,6 +727,9 @@
           "access-date": "2022-07-27",
           "website": "www.scotsman.com",
           "language": "en",
+          "archive-date": "27 July 2022",
+          "archive-url": "https://web.archive.org/web/20220727134727/https://www.scotsman.com/news/expert-prosecutor-named-new-chief-scotlands-legal-system-1676748",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -772,6 +793,9 @@
           "access-date": "2022-07-22",
           "website": "www.scotsman.com",
           "language": "en",
+          "archive-date": "22 July 2022",
+          "archive-url": "https://web.archive.org/web/20220722231628/https://www.scotsman.com/news/politics/scotlands-new-lord-advocate-is-announced-3274878",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -875,6 +899,9 @@
           "access-date": "2022-07-26",
           "website": "The Courier",
           "language": "en-GB",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726072305/https://www.thecourier.co.uk/fp/politics/scottish-politics/2312131/dorothy-bain-qc-nominated-scotlands-new-lord-advocate/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -944,6 +971,9 @@
           "access-date": "2021-07-14",
           "website": "Daily Record",
           "language": "en",
+          "archive-date": "14 July 2021",
+          "archive-url": "https://web.archive.org/web/20210714174418/https://www.dailyrecord.co.uk/news/politics/new-lord-advocate-dorothy-bain-24371285",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -953,6 +983,9 @@
           "access-date": "2021-07-14",
           "website": "The National",
           "language": "en",
+          "archive-date": "14 July 2021",
+          "archive-url": "https://web.archive.org/web/20210714174419/https://www.thenational.scot/news/19376299.new-lord-advocate-dorothy-bain-qc-likely-back-holyrood-indyref-plan/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -1072,6 +1105,9 @@
           "access-date": "2022-07-26",
           "website": "Transform",
           "language": "en-GB",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726043738/https://transformdrugs.org/blog/scotland-steps-towards-reform",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1081,6 +1117,9 @@
           "access-date": "2022-07-26",
           "website": "The National",
           "language": "en",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726043737/https://www.thenational.scot/news/19597828.lord-advocate-dorothy-bain-says-scots-class-drugs-can-given-warning/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1090,6 +1129,9 @@
           "access-date": "2022-07-26",
           "website": "COPFS",
           "language": "en",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726043740/https://www.copfs.gov.uk/about-copfs/news/lord-advocate-statement-on-diversion-from-prosecution/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1099,6 +1141,9 @@
           "access-date": "2022-07-26",
           "website": "Glasgow Times",
           "language": "en",
+          "archive-date": "8 October 2021",
+          "archive-url": "https://web.archive.org/web/20211008221532/https://www.glasgowtimes.co.uk/news/19603767.lord-advocates-drug-change-good-step-now-need-leap/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1110,6 +1155,9 @@
           "access-date": "2022-07-26",
           "website": "The Courier",
           "language": "en-GB",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726072303/https://www.thecourier.co.uk/fp/politics/scottish-politics/2596676/class-a-drug-users-to-be-offered-police-warning-rather-than-prosecution-in-major-justice-shake-up/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1122,6 +1170,9 @@
           "access-date": "2022-07-26",
           "website": "Daily Record",
           "language": "en",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726043733/https://www.dailyrecord.co.uk/news/politics/lord-advocate-suggests-fresh-look-25367167",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -1250,6 +1301,9 @@
           "agency": "Associated Press",
           "url": "https://www.npr.org/2022/06/14/1104882937/scotlands-leader-starts-a-campaign-for-a-new-independence-vote",
           "access-date": "2022-06-15",
+          "archive-date": "5 July 2022",
+          "archive-url": "https://web.archive.org/web/20220705075527/https://www.npr.org/2022/06/14/1104882937/scotlands-leader-starts-a-campaign-for-a-new-independence-vote",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1260,6 +1314,9 @@
           "access-date": "2022-06-15",
           "website": "the Guardian",
           "language": "en",
+          "archive-date": "18 June 2022",
+          "archive-url": "https://web.archive.org/web/20220618201236/https://www.theguardian.com/politics/2022/jun/14/sturgeon-plots-alternative-route-to-scottish-independence-vote-next-year",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1270,6 +1327,9 @@
           "access-date": "2022-06-15",
           "website": "HuffPost UK",
           "language": "en",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726171157/https://www.huffingtonpost.co.uk/entry/boris-johnson-rules-out-indyref2_uk_62a86121e4b0cdccbe552ebe",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1280,6 +1340,9 @@
           "work": "BBC News",
           "url": "https://www.bbc.com/news/uk-scotland-scotland-politics-61968607",
           "access-date": "2022-06-29",
+          "archive-date": "25 July 2022",
+          "archive-url": "https://web.archive.org/web/20220725184042/https://www.bbc.com/news/uk-scotland-scotland-politics-61968607",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1290,6 +1353,9 @@
           "access-date": "2022-07-26",
           "website": "STV News",
           "language": "en-GB",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726043737/https://news.stv.tv/politics/lord-advocate-lacks-necessary-confidence-on-legality-of-scottish-independence-vote-plans",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1300,6 +1366,9 @@
           "access-date": "2022-07-26",
           "website": "the Guardian",
           "language": "en",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726043450/https://www.theguardian.com/uk-news/2022/jul/05/independence-vote-may-be-unlawful-says-scotlands-lord-advocate",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1309,6 +1378,9 @@
           "access-date": "2022-07-26",
           "website": "www.gov.scot",
           "language": "en",
+          "archive-date": "22 July 2022",
+          "archive-url": "https://web.archive.org/web/20220722131512/https://www.gov.scot/publications/reference-to-the-supreme-court-publication-of-the-lord-advocates-written-case/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1319,6 +1391,9 @@
           "work": "BBC News",
           "url": "https://www.bbc.com/news/uk-scotland-scotland-politics-62271069",
           "access-date": "2022-07-26",
+          "archive-date": "25 July 2022",
+          "archive-url": "https://web.archive.org/web/20220725205029/https://www.bbc.com/news/uk-scotland-scotland-politics-62271069",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1328,6 +1403,9 @@
           "access-date": "2022-07-26",
           "website": "www.scotsman.com",
           "language": "en",
+          "archive-date": "26 July 2022",
+          "archive-url": "https://web.archive.org/web/20220726043738/https://www.scotsman.com/news/politics/scottish-government-plans-for-indyref2-to-lead-to-independence-not-legally-relevant-on-referendum-question-argues-lord-advocate-3779063",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1343,6 +1421,9 @@
           "url": "https://www.telegraph.co.uk/politics/2022/06/28/boris-johnson-news-g7-northern-ireland-protocol-nicola-sturgeon/",
           "access-date": "2022-06-29",
           "issn": "0307-1235",
+          "archive-date": "12 July 2022",
+          "archive-url": "https://web.archive.org/web/20220712181150/https://www.telegraph.co.uk/politics/2022/06/28/boris-johnson-news-g7-northern-ireland-protocol-nicola-sturgeon/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1358,6 +1439,9 @@
           "url": "https://www.telegraph.co.uk/politics/2022/06/28/boris-johnson-news-g7-northern-ireland-protocol-nicola-sturgeon/",
           "access-date": "2022-06-29",
           "issn": "0307-1235",
+          "archive-date": "12 July 2022",
+          "archive-url": "https://web.archive.org/web/20220712181150/https://www.telegraph.co.uk/politics/2022/06/28/boris-johnson-news-g7-northern-ireland-protocol-nicola-sturgeon/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         }
@@ -1403,6 +1487,9 @@
           "url": "https://www.thetimes.co.uk/article/husband-of-lord-advocate-nominee-dorothy-bain-to-step-aside-from-criminal-judge-role-hlb0sjk6m",
           "access-date": "2022-07-27",
           "issn": "0140-0460",
+          "archive-date": "27 July 2022",
+          "archive-url": "https://web.archive.org/web/20220727144736/https://www.thetimes.co.uk/article/husband-of-lord-advocate-nominee-dorothy-bain-to-step-aside-from-criminal-judge-role-hlb0sjk6m",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1412,6 +1499,9 @@
           "access-date": "2022-07-27",
           "website": "Scottish Legal News",
           "language": "en",
+          "archive-date": "30 July 2022",
+          "archive-url": "https://web.archive.org/web/20220730220413/https://www.scottishlegal.com/articles/lord-turnbull-to-stand-aside-from-criminal-hearings-upon-appointment-of-lord-advocate",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
