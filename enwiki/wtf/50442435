@@ -902,6 +902,38 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2022, John Swinney took on responsibility for the Finance and Economy portfolio as Forbes went on maternity leave.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Swinney"
+                },
+                {
+                  "text": "maternity leave",
+                  "type": "internal",
+                  "page": "Parental leave"
+                }
+              ]
+            },
+            {
+              "text": "She is the first Cabinet Secretary in the Scottish Government to take paternal leave.",
+              "links": [
+                {
+                  "text": "Cabinet Secretary",
+                  "type": "internal",
+                  "page": "Cabinet Secretary for Finance and the Economy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Scottish Government"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -914,6 +946,25 @@
         }
       ],
       "references": [
+        {
+          "date": "2022-06-30",
+          "title": "John Swinney to cover Kate Forbes' maternity leave",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-scotland-scotland-politics-61999654",
+          "access-date": "2022-07-31",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Kate Forbes maternity cover",
+          "url": "http://www.gov.scot/news/kate-forbes-maternity-cover/",
+          "access-date": "2022-07-31",
+          "website": "www.gov.scot",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "last1": "Carrell",
           "first1": "Severin",

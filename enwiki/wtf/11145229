@@ -24,10 +24,10 @@
         {
           "sentences": [
             {
-              "text": "Keith James Brown (born 20 December 1961) is a Scottish politician serving as Depute Leader of the Scottish National Party (SNP) since 2018 and Cabinet Secretary for Justice and Veterans since 2021.",
+              "text": "Keith James Brown (born 20 December 1961) is a Scottish politician serving as Deputy Leader of the Scottish National Party (SNP) since 2018 and Cabinet Secretary for Justice and Veterans since 2021.",
               "links": [
                 {
-                  "text": "Depute Leader",
+                  "text": "Deputy Leader",
                   "type": "internal",
                   "page": "Deputy leader"
                 },
@@ -254,7 +254,7 @@
           "template": "engvarb"
         },
         {
-          "description": "Depute Leader of the Scottish National Party",
+          "description": "Deputy Leader of the Scottish National Party",
           "template": "short description"
         },
         {
@@ -295,10 +295,10 @@
             "text": "Official portrait, 2021"
           },
           "office": {
-            "text": "Depute Leader of the Scottish National Party",
+            "text": "Deputy Leader of the Scottish National Party",
             "links": [
               {
-                "text": "Depute Leader of the Scottish National Party",
+                "text": "Deputy Leader of the Scottish National Party",
                 "type": "internal",
                 "page": "Scottish National Party",
                 "anchor": "Depute Leader of the Scottish National Party"
